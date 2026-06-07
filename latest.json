@@ -1,0 +1,8 @@
+{
+    "versao":  "2.26.0.1",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.1/SOS-v2.26.0.1-Win64.zip",
+    "sha256":  "e8fe14325e656a2613c7590b49085cc9056f7de5c876497cfd61177f30a4a209",
+    "obrigatorio":  true,
+    "notas":  "Teste auto-update (isolado DELL).",
+    "tamanho_mb":  48.3
+}
