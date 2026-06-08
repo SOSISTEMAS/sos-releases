@@ -1,8 +1,8 @@
 {
-    "versao":  "2.26.0.2",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.2/SOS-v2.26.0.2-Win64.zip",
-    "sha256":  "d2c476a4842cd7a349b85b9de7d643d1667c736ef4fcdb799ad54e64b751c5b6",
+    "versao":  "2.26.0.3",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.3/SOS-v2.26.0.3-Win64.zip",
+    "sha256":  "1f7a554d4944f9f4487a3ea0f875de54acb71fdf0550291ec91bc0da4eaee215",
     "obrigatorio":  true,
-    "notas":  "Auto-updater (teste LERIBII).",
+    "notas":  "Etiquetas (editor de modelo + 32 modelos) e atacarejo.",
     "tamanho_mb":  48.3
 }
