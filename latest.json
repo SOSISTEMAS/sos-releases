@@ -1,8 +1,8 @@
 {
-    "versao":  "2.26.0.3",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.3/SOS-v2.26.0.3-Win64.zip",
-    "sha256":  "1f7a554d4944f9f4487a3ea0f875de54acb71fdf0550291ec91bc0da4eaee215",
+    "versao":  "2.26.0.4",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.4/SOS-v2.26.0.4-Win64.zip",
+    "sha256":  "5e533a2f5b23f09a12d95b859735be80a62398c638eaa24c86bf8598b4bb1470",
     "obrigatorio":  true,
-    "notas":  "Etiquetas (editor de modelo + 32 modelos) e atacarejo.",
+    "notas":  "Etiquetas (editor + 32 modelos embutidos) e atacarejo.",
     "tamanho_mb":  48.3
 }
