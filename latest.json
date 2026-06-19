@@ -1,8 +1,8 @@
 {
-    "versao":  "2.26.0.4",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.26.0.4/SOS-v2.26.0.4-Win64.zip",
-    "sha256":  "5e533a2f5b23f09a12d95b859735be80a62398c638eaa24c86bf8598b4bb1470",
+    "versao":  "2.32.0.0",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.32.0.0/SOS-v2.32.0.0-Win64.zip",
+    "sha256":  "6a84165b4850475c90e11760db474fe3d3a01339af44235d8a559b4c1749d4f2",
     "obrigatorio":  true,
-    "notas":  "Etiquetas (editor + 32 modelos embutidos) e atacarejo.",
-    "tamanho_mb":  48.3
+    "notas":  "Release 2.32 — piloto auto-update LERIBI (performance, embalagens, manifesto DFe)",
+    "tamanho_mb":  48.4
 }
