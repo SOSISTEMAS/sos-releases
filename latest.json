@@ -1,8 +1,8 @@
 {
-    "versao":  "2.32.0.0",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.32.0.0/SOS-v2.32.0.0-Win64.zip",
-    "sha256":  "6a84165b4850475c90e11760db474fe3d3a01339af44235d8a559b4c1749d4f2",
+    "versao":  "2.33.0.0",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.33.0.0/SOS-v2.33.0.0-Win64.zip",
+    "sha256":  "8a0d7510075fe07f8898e8238a8d38fc8e75fb8118b5c94b97255cc9eabdc2a1",
     "obrigatorio":  true,
-    "notas":  "Release 2.32 — piloto auto-update LERIBI (performance, embalagens, manifesto DFe)",
+    "notas":  "Manifesto DFe, Importacao NFe fornecedor/RT, PDV Express atalhos F5/F6/F7",
     "tamanho_mb":  48.4
 }
