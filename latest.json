@@ -1,8 +1,8 @@
 {
-    "versao":  "2.33.0.0",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.33.0.0/SOS-v2.33.0.0-Win64.zip",
-    "sha256":  "8a0d7510075fe07f8898e8238a8d38fc8e75fb8118b5c94b97255cc9eabdc2a1",
+    "versao":  "2.34.0.0",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.0/SOS-v2.34.0.0-Win64.zip",
+    "sha256":  "bf5529ed653a0f26308e844f7020ed8f4f9e593fbc93c7be7144edca96805d1b",
     "obrigatorio":  true,
-    "notas":  "Manifesto DFe, Importacao NFe fornecedor/RT, PDV Express atalhos F5/F6/F7",
+    "notas":  "Importacao XML, Alterar NFe lancada, Manifesto, ordem DESC, fix AV import",
     "tamanho_mb":  48.4
 }
