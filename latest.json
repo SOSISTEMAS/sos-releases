@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.0",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.0/SOS-v2.34.0.0-Win64.zip",
-    "sha256":  "bf5529ed653a0f26308e844f7020ed8f4f9e593fbc93c7be7144edca96805d1b",
+    "versao":  "2.34.0.1",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.1/SOS-v2.34.0.1-Win64.zip",
+    "sha256":  "63dec6fe104b1eac80484e417610bc815759ce3d86fd0cd2ccbe93056041764b",
     "obrigatorio":  true,
-    "notas":  "Importacao XML, Alterar NFe lancada, Manifesto, ordem DESC, fix AV import",
+    "notas":  "Fix coluna data_lancamento nota_entrada (auto-migration ao abrir NFe Entrada)",
     "tamanho_mb":  48.4
 }
