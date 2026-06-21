@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.2",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.2/SOS-v2.34.0.2-Win64.zip",
-    "sha256":  "219a5bdb73b27c9f1f5be2c967796cb246a23562f8b6ad3020c5fd9aae6fae7a",
+    "versao":  "2.34.0.3",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.3/SOS-v2.34.0.3-Win64.zip",
+    "sha256":  "94ae379ffb39163d67b38df4df378c85d6aa3b7757cd8f5b5c5e54fdcb0fdde2",
     "obrigatorio":  true,
-    "notas":  "SOS Gestor 2.34.0.2\n\n- Salvar login e senha automaticamente (Configuracoes \u003e Geral)\n- Manifesto: janela de consulta ampliada para 2 anos\n- NFe Entrada: fix coluna data_lancamento + importacao XML\n- Melhorias de layout Configuracoes",
+    "notas":  "SOS Gestor 2.34.0.3",
     "tamanho_mb":  48.4
 }
