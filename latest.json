@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.3",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.3/SOS-v2.34.0.3-Win64.zip",
-    "sha256":  "94ae379ffb39163d67b38df4df378c85d6aa3b7757cd8f5b5c5e54fdcb0fdde2",
+    "versao":  "2.34.0.5",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.5/SOS-v2.34.0.5-Win64.zip",
+    "sha256":  "7984d8e0a382a04a10b8b34b4b048abf2d579acec49cf3daa43718a933c4851b",
     "obrigatorio":  true,
-    "notas":  "SOS Gestor 2.34.0.3",
+    "notas":  "NFC-e: impressao direta na termica ESC/POS quando Caixa esta em modo ESC/POS (Config Principal / Impressao). Fallback automatico para PDF se a termica falhar.",
     "tamanho_mb":  48.4
 }
