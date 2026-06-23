@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.6",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.6/SOS-v2.34.0.6-Win64.zip",
-    "sha256":  "5a4b7602f19a89265f6b84a3ed445fd6b854f257a9271ea1d96644d851c5ca70",
+    "versao":  "2.34.0.7",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.7/SOS-v2.34.0.7-Win64.zip",
+    "sha256":  "a1edb879c2f4c294b938e89505186bd98a63154aec0448247b7bb4617eafbf5c",
     "obrigatorio":  true,
-    "notas":  "Comprovante caixa (pergunta impressao); layout Config Geral; navegacao sem tela fantasma MDI; NFC-e termica ESC/POS; correcoes Bugbot (data comprovante, aviso sem ESC/POS).",
-    "tamanho_mb":  48.4
+    "notas":  "Config: oculta botao Importar Tabela Cidades (TODO IBGE). NF Entrada: salvar em digitacao sem lancar estoque. PDV: fix EAN unitario vs etiqueta balanca. Importacao NF: fix margem negativa ao carregar XML.",
+    "tamanho_mb":  48.5
 }
