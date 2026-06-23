@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.7",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.7/SOS-v2.34.0.7-Win64.zip",
-    "sha256":  "a1edb879c2f4c294b938e89505186bd98a63154aec0448247b7bb4617eafbf5c",
+    "versao":  "2.34.0.8",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.8/SOS-v2.34.0.8-Win64.zip",
+    "sha256":  "0d16cb66678b0db40edc7951788f5659d06818496f3f1e3431e8498fd6dac055",
     "obrigatorio":  true,
-    "notas":  "Config: oculta botao Importar Tabela Cidades (TODO IBGE). NF Entrada: salvar em digitacao sem lancar estoque. PDV: fix EAN unitario vs etiqueta balanca. Importacao NF: fix margem negativa ao carregar XML.",
+    "notas":  "NF Entrada: editar descricao do item (abreviar nome do fornecedor); margem % e valor de venda no detalhe do item; fix erro ao clicar Alterar item.\n\nConfiguracoes: aba TEMAS corrigida (nao mistura conteudo com GERAL); 5 cards de imagens restaurados.\n\nImpressao: cupom nao fiscal configuravel (negrito, fonte expandida, logomarca); botao Escolher logomarca no grupo do cupom.\n\nInclui fixes da 2.34.0.7: NF entrada em digitacao, etiqueta balanca PDV, margem XML importacao.",
     "tamanho_mb":  48.5
 }
