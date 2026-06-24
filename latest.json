@@ -1,8 +1,8 @@
 {
-    "versao":  "2.34.0.8",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.8/SOS-v2.34.0.8-Win64.zip",
-    "sha256":  "0d16cb66678b0db40edc7951788f5659d06818496f3f1e3431e8498fd6dac055",
+    "versao":  "2.34.0.9",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.34.0.9/SOS-v2.34.0.9-Win64.zip",
+    "sha256":  "c1b3764f43448b98776cd5c5a0098e39b163be919fbbfb031ed9b3c8d14cff02",
     "obrigatorio":  true,
-    "notas":  "NF Entrada: editar descricao do item (abreviar nome do fornecedor); margem % e valor de venda no detalhe do item; fix erro ao clicar Alterar item.\n\nConfiguracoes: aba TEMAS corrigida (nao mistura conteudo com GERAL); 5 cards de imagens restaurados.\n\nImpressao: cupom nao fiscal configuravel (negrito, fonte expandida, logomarca); botao Escolher logomarca no grupo do cupom.\n\nInclui fixes da 2.34.0.7: NF entrada em digitacao, etiqueta balanca PDV, margem XML importacao.",
+    "notas":  "PDV Consultar Produto: tela grande com descricao, preco e estoque legiveis para o cliente. Filtro So inativos / So ativos / Todos na busca F2 e consulta F7-F10 (PDV, PDV Express, Touch). Consulta produtos do menu com filtro situacao. Fix uVisualSistema nao resetar visual da consulta produto.",
     "tamanho_mb":  48.5
 }
