@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.0",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.0/SOS-v2.35.0.0-Win64.zip",
-    "sha256":  "8f6b93378ce915d48cffe8ea09bc14c43e4ad02f8155410bc86ebc5d4c5b02cc",
+    "versao":  "2.35.0.1",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.1/SOS-v2.35.0.1-Win64.zip",
+    "sha256":  "24a0b1e711160aa602e443901fe7339f190c9bb02e7d7620f488d7986b5497b9",
     "obrigatorio":  true,
-    "notas":  "Logomarca do TEMAS no cupom nao fiscal e fiscal (NFC-e/NFe). Cliente sem config anterior: logo nos 2 cupons. Fix bipe direto valor unitario nos PDVs.",
+    "notas":  "CFOP padrao NFC-e (config Fiscal \u003e Dados NFCe + fallback emissao e produto novo). Cadastro produto: unidade UN e categoria DIVERSOS por padrao (novo e lote). ESC/POS: correcao porta impressora compartilhada (I/O error 67).",
     "tamanho_mb":  48.5
 }
