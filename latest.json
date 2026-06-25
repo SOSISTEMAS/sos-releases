@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.5",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.5/SOS-v2.35.0.5-Win64.zip",
-    "sha256":  "f9d8e67c2fac73fb1dc8e43b4486604c31668483b24c519392c2fa99a18e7d18",
+    "versao":  "2.35.0.6",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.6/SOS-v2.35.0.6-Win64.zip",
+    "sha256":  "6cce11a816342f6ba0d047b4b08ad7475c2b620705e3090a78cc7bfb12293d85",
     "obrigatorio":  true,
-    "notas":  "Fix quantidade PDV: campo lateral sempre editavel (ignora CKALTERARQTDPDV=false), DataConnector removido do edQuantidade. Leo validou local.",
+    "notas":  "Fix rejeicao NFC-e: total PIS/COFINS no XML agora soma os itens (SEFAZ rejeitava Total do PIS difere do somatorio dos itens sujeitos ao ICMS).",
     "tamanho_mb":  48.5
 }
