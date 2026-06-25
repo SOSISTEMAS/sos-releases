@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.1",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.1/SOS-v2.35.0.1-Win64.zip",
-    "sha256":  "24a0b1e711160aa602e443901fe7339f190c9bb02e7d7620f488d7986b5497b9",
+    "versao":  "2.35.0.2",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.2/SOS-v2.35.0.2-Win64.zip",
+    "sha256":  "7e2a3df945a9c013c758cefce90e3e7bed52434e9fba745fcbce22e4369da1a8",
     "obrigatorio":  true,
-    "notas":  "CFOP padrao NFC-e (config Fiscal \u003e Dados NFCe + fallback emissao e produto novo). Cadastro produto: unidade UN e categoria DIVERSOS por padrao (novo e lote). ESC/POS: correcao porta impressora compartilhada (I/O error 67).",
+    "notas":  "Etiqueta balanca: tipo PRECO (valor na etiqueta Toledo), busca flexivel PLU (codigo curto vs 6 digitos), normalizacao config EAN-13 (largura 13). Migracao clientes RP/balanca.",
     "tamanho_mb":  48.5
 }
