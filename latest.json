@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.3",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.3/SOS-v2.35.0.3-Win64.zip",
-    "sha256":  "10f415a11662b1248bcbea4524b87ad0428ef0c8bf7765bea4c06e2c028eda5f",
+    "versao":  "2.35.0.5",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.5/SOS-v2.35.0.5-Win64.zip",
+    "sha256":  "f9d8e67c2fac73fb1dc8e43b4486604c31668483b24c519392c2fa99a18e7d18",
     "obrigatorio":  true,
-    "notas":  "Fix quantidade PDV: preset antes da busca (DataConnector zerava campo). Tecla * no PDV retaguarda. Etiqueta balanca PRECO mantida.",
+    "notas":  "Fix quantidade PDV: campo lateral sempre editavel (ignora CKALTERARQTDPDV=false), DataConnector removido do edQuantidade. Leo validou local.",
     "tamanho_mb":  48.5
 }
