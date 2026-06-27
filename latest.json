@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.7",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.7/SOS-v2.35.0.7-Win64.zip",
-    "sha256":  "23537f41efcbb120de0caa86082f58782f5a1c2c5d78192aaa641f61fa242a62",
+    "versao":  "2.35.0.8",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.8/SOS-v2.35.0.8-Win64.zip",
+    "sha256":  "7313e715ac4874698d9b26e4e2b0dbdad15fde6509c0406c5505adf5b5f2119f",
     "obrigatorio":  true,
-    "notas":  "Fix balanca etiqueta PRECO (*1000). Fix PDV codigo*peso e peso*codigo (ex. banana 33*500). Fix totais PIS/COFINS NFC-e.",
+    "notas":  "Fix PDV Express qtde*código no Enter (ex. 0,15*7). Mantém fixes 2.35.0.7 (balança, cod*peso, PIS/COFINS NFC-e).",
     "tamanho_mb":  48.5
 }
