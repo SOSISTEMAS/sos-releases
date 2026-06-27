@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.6",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.6/SOS-v2.35.0.6-Win64.zip",
-    "sha256":  "6cce11a816342f6ba0d047b4b08ad7475c2b620705e3090a78cc7bfb12293d85",
+    "versao":  "2.35.0.7",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.7/SOS-v2.35.0.7-Win64.zip",
+    "sha256":  "23537f41efcbb120de0caa86082f58782f5a1c2c5d78192aaa641f61fa242a62",
     "obrigatorio":  true,
-    "notas":  "Fix rejeicao NFC-e: total PIS/COFINS no XML agora soma os itens (SEFAZ rejeitava Total do PIS difere do somatorio dos itens sujeitos ao ICMS).",
+    "notas":  "Fix balanca etiqueta PRECO (*1000). Fix PDV codigo*peso e peso*codigo (ex. banana 33*500). Fix totais PIS/COFINS NFC-e.",
     "tamanho_mb":  48.5
 }
