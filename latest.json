@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.8",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.8/SOS-v2.35.0.8-Win64.zip",
-    "sha256":  "7313e715ac4874698d9b26e4e2b0dbdad15fde6509c0406c5505adf5b5f2119f",
+    "versao":  "2.35.0.9",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.9/SOS-v2.35.0.9-Win64.zip",
+    "sha256":  "9407ea0cc0e138c8d73379438f63f420516ab1c76f395e919ca45822c6627b04",
     "obrigatorio":  true,
-    "notas":  "Fix PDV Express qtde*código no Enter (ex. 0,15*7). Mantém fixes 2.35.0.7 (balança, cod*peso, PIS/COFINS NFC-e).",
+    "notas":  "Fix PDV Express: nao busca produto no blur com peso* parcial (0,150*). Busca qtde*codigo so no Enter completo.",
     "tamanho_mb":  48.5
 }
