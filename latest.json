@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.9",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.9/SOS-v2.35.0.9-Win64.zip",
-    "sha256":  "9407ea0cc0e138c8d73379438f63f420516ab1c76f395e919ca45822c6627b04",
+    "versao":  "2.35.0.10",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.10/SOS-v2.35.0.10-Win64.zip",
+    "sha256":  "99186f59f83e9112ded14de57bbb84eae963a45ed90a86dcff67ba68388ce7ce",
     "obrigatorio":  true,
-    "notas":  "Fix PDV Express: nao busca produto no blur com peso* parcial (0,150*). Busca qtde*codigo so no Enter completo.",
+    "notas":  "Tela Caixa Ausente fullscreen (Ctrl+P) estilo Le Store: mensagem, operador, consulta preco e desbloquear. Inclui fixes 2.35.0.9 (PDV Express peso*codigo).",
     "tamanho_mb":  48.5
 }
