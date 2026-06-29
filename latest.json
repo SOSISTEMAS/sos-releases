@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.10",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.10/SOS-v2.35.0.10-Win64.zip",
-    "sha256":  "99186f59f83e9112ded14de57bbb84eae963a45ed90a86dcff67ba68388ce7ce",
+    "versao":  "2.35.0.2",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.2/SOS-v2.35.0.2-Win64.zip",
+    "sha256":  "7e2a3df945a9c013c758cefce90e3e7bed52434e9fba745fcbce22e4369da1a8",
     "obrigatorio":  true,
-    "notas":  "Tela Caixa Ausente fullscreen (Ctrl+P) estilo Le Store: mensagem, operador, consulta preco e desbloquear. Inclui fixes 2.35.0.9 (PDV Express peso*codigo).",
+    "notas":  "ROLLBACK urgente: busca PDV Express quebrada em 2.35.0.3+. Versao estavel 25/06/2026.",
     "tamanho_mb":  48.5
 }
