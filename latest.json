@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.2",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.2/SOS-v2.35.0.2-Win64.zip",
-    "sha256":  "7e2a3df945a9c013c758cefce90e3e7bed52434e9fba745fcbce22e4369da1a8",
+    "versao":  "2.35.0.39",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.39/SOS-v2.35.0.39-Win64.zip",
+    "sha256":  "b112b3b4a127bef6d26f3e4a5bb9d4a4729ceff73383b14abf0e3e9673ce915c",
     "obrigatorio":  true,
-    "notas":  "ROLLBACK urgente: busca PDV Express quebrada em 2.35.0.3+. Versao estavel 25/06/2026.",
+    "notas":  "PDV Express e PDV normal: qty fracionada balanca, tecla asterisco, PLU colado (8710,300*)",
     "tamanho_mb":  48.5
 }
