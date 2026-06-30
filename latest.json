@@ -1,8 +1,8 @@
 {
-    "versao":  "2.35.0.39",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.35.0.39/SOS-v2.35.0.39-Win64.zip",
-    "sha256":  "b112b3b4a127bef6d26f3e4a5bb9d4a4729ceff73383b14abf0e3e9673ce915c",
+    "versao":  "2.36.0.0",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.0/SOS-v2.36.0.0-Win64.zip",
+    "sha256":  "79adfd3016f9661aad630291f1173f204882ea07c02b004c74aa03e58bb5563d",
     "obrigatorio":  true,
-    "notas":  "PDV Express e PDV normal: qty fracionada balanca, tecla asterisco, PLU colado (8710,300*)",
+    "notas":  "PDV Express: bip leitor (PostMessage), balanca, layout rodape (atalhos/menu/pagamento/subtotal) e descricao item. Clientes com auto-update recebem ao abrir o SOS.",
     "tamanho_mb":  48.5
 }
