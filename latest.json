@@ -1,8 +1,8 @@
 {
-    "versao":  "2.36.0.0",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.0/SOS-v2.36.0.0-Win64.zip",
-    "sha256":  "79adfd3016f9661aad630291f1173f204882ea07c02b004c74aa03e58bb5563d",
+    "versao":  "2.36.0.1",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.1/SOS-v2.36.0.1-Win64.zip",
+    "sha256":  "91d700fe709a23762d26bc8a715f4a214d3ce3a3be1df5f4641d0ca6bc793538",
     "obrigatorio":  true,
-    "notas":  "PDV Express: bip leitor (PostMessage), balanca, layout rodape (atalhos/menu/pagamento/subtotal) e descricao item. Clientes com auto-update recebem ao abrir o SOS.",
+    "notas":  "PDV Express: grade Unit/Qtde corrigida. Atacarejo: preco converte bipando 1 a 1 (Express, PDV, Touch). Cadastro: checkbox Produto Ativo. Impressora ESC/POS: suporte UNC.",
     "tamanho_mb":  48.5
 }
