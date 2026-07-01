@@ -1,8 +1,8 @@
 {
-    "versao":  "2.36.0.1",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.1/SOS-v2.36.0.1-Win64.zip",
-    "sha256":  "91d700fe709a23762d26bc8a715f4a214d3ce3a3be1df5f4641d0ca6bc793538",
+    "versao":  "2.36.0.2",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.2/SOS-v2.36.0.2-Win64.zip",
+    "sha256":  "f1794583d61d3c7b6692f96d4a1b63171cbbfe4a55edaca34a7312529b290e3d",
     "obrigatorio":  true,
-    "notas":  "PDV Express: grade Unit/Qtde corrigida. Atacarejo: preco converte bipando 1 a 1 (Express, PDV, Touch). Cadastro: checkbox Produto Ativo. Impressora ESC/POS: suporte UNC.",
+    "notas":  "Fix PDV fechamento: troco zerava pagamento liquido e NFC-e falhava (XmlNode nulo). Tela mostra TOTAL DA VENDA + FALTA PAGAR. Valida valor recebido antes de confirmar.",
     "tamanho_mb":  48.5
 }
