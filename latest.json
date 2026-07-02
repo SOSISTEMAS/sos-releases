@@ -1,8 +1,8 @@
 {
     "versao":  "2.37.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "5a14a274b184dd330066e352f550b284d422725d362016cef3495a0596db8e0a",
+    "sha256":  "50b0567c66b49e6b4326297ea280416737aa3a76c399ff7c5ae3a37c7d45ad28",
     "obrigatorio":  true,
-    "notas":  "Fix Runtime error 217 no fechamento (timers tmStatus/TmImpMobile). Alterar cupom, sangria PDV Express, consulta orcamento.",
+    "notas":  "Fix Runtime 217 no fechamento: timers menu + cloud sync shutdown seguro. Alterar Cupom, sangria PDV, atacarejo.",
     "tamanho_mb":  48.5
 }
