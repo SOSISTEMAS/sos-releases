@@ -1,8 +1,8 @@
 {
-    "versao":  "2.36.0.3",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.36.0.3/SOS-v2.36.0.3-Win64.zip",
-    "sha256":  "6e71a11e9ec4bab40b933c7d1821c9ef287340ba58cc69d23ab8a06bb8e61cb8",
+    "versao":  "2.37.0.0",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
+    "sha256":  "5a14a274b184dd330066e352f550b284d422725d362016cef3495a0596db8e0a",
     "obrigatorio":  true,
-    "notas":  "PDV Express: Ctrl+U fixo reimprimir ultima venda (Le Store). PDV normal: Ctrl+U ativo no teclado. Fix entrada fracionada 0,15* mantem cursor no campo codigo apos asterisco.",
+    "notas":  "Fix Runtime error 217 no fechamento (timers tmStatus/TmImpMobile). Alterar cupom, sangria PDV Express, consulta orcamento.",
     "tamanho_mb":  48.5
 }
