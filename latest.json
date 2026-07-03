@@ -1,8 +1,8 @@
 {
-    "versao":  "2.37.0.0",
+    "versao":  "2.37.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "50b0567c66b49e6b4326297ea280416737aa3a76c399ff7c5ae3a37c7d45ad28",
+    "sha256":  "fcba0cc565830361aaf84a167358f374ed5815aa01d9d49382ede5955abfba2a",
     "obrigatorio":  true,
-    "notas":  "Fix Runtime 217 no fechamento: timers menu + cloud sync shutdown seguro. Alterar Cupom, sangria PDV, atacarejo.",
+    "notas":  "PDV Express: coluna Itens (qtde acumulada) e subtotal; vendedor no topo ao abrir; desconto Ctrl+D corrigido (sem AV).",
     "tamanho_mb":  48.5
 }
