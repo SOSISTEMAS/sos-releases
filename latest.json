@@ -1,8 +1,8 @@
 {
-    "versao":  "2.37.0.1",
+    "versao":  "2.37.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "fcba0cc565830361aaf84a167358f374ed5815aa01d9d49382ede5955abfba2a",
+    "sha256":  "789a1e1b776027f2cbf85ac972ea627785e2f605492ad491c953bc1f02464738",
     "obrigatorio":  true,
-    "notas":  "PDV Express: coluna Itens (qtde acumulada) e subtotal; vendedor no topo ao abrir; desconto Ctrl+D corrigido (sem AV).",
-    "tamanho_mb":  48.5
+    "notas":  "Fix fiscal terminal: sync automatico de schemas/DLLs no boot + auto-update inclui arquivos fiscais.",
+    "tamanho_mb":  56.5
 }
