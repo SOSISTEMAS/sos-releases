@@ -1,8 +1,8 @@
 {
-    "versao":  "2.37.0.2",
+    "versao":  "2.37.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "789a1e1b776027f2cbf85ac972ea627785e2f605492ad491c953bc1f02464738",
+    "sha256":  "39c6d2d18b5464288df8873517a5236ce79db6a4af593d6600874fd412ebd60b",
     "obrigatorio":  true,
-    "notas":  "Fix fiscal terminal: sync automatico de schemas/DLLs no boot + auto-update inclui arquivos fiscais.",
+    "notas":  "Fix reimprimir cupom (AV F10, grid e filtros). Cupom fiscal QR sem corte + preview Config. IMP impressoras no auto-update. NFCe pagamento zerado. Sync fiscal terminal schemas/DLLs.",
     "tamanho_mb":  56.5
 }
