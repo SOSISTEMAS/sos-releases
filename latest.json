@@ -1,8 +1,8 @@
 {
-    "versao":  "2.37.0.3",
+    "versao":  "2.38.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "39c6d2d18b5464288df8873517a5236ce79db6a4af593d6600874fd412ebd60b",
+    "sha256":  "8c9df5545b94d0c4678805aa5a7266fe734d138770794c00ceb8a718efc7ed3c",
     "obrigatorio":  true,
-    "notas":  "Fix reimprimir cupom (AV F10, grid e filtros). Cupom fiscal QR sem corte + preview Config. IMP impressoras no auto-update. NFCe pagamento zerado. Sync fiscal terminal schemas/DLLs.",
+    "notas":  "Alterar Cupom: corrige bloqueio por venda aberta vazia no terminal.\nPDV: busca de produto por nome com sugestoes (lista desde a 1a letra, Enter confirma).\nPDV Express: Consultar Produto (F7) limpa o campo apos cada consulta.",
     "tamanho_mb":  56.5
 }
