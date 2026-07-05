@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.1",
+    "versao":  "2.39.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2387b1b098bf552a6539c3dcbdd706c3e70027e7f7822ef1b7137a2d9e54b5f3",
+    "sha256":  "c139c13f1a9f54b1f49138d70f754311071c52048b939b9e33c503f4f2d34ecd",
     "obrigatorio":  true,
-    "notas":  "Hotfix: cria colunas preco/qtde/tipo embalagem fechada automaticamente ao abrir (SQL 3.0.0.41).",
+    "notas":  "Consulta de produtos: coluna Estoque com quantidade em tempo real. Cadastro de produto: corrigida confirmacao indevida de inativacao ao cadastrar novo item.",
     "tamanho_mb":  56.5
 }
