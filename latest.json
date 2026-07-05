@@ -1,8 +1,8 @@
 {
-    "versao":  "2.38.0.0",
+    "versao":  "2.39.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8c9df5545b94d0c4678805aa5a7266fe734d138770794c00ceb8a718efc7ed3c",
+    "sha256":  "698547d59ff8684acb2f22293b252aa82dc4d3fcc149d2e43a17295cca798c55",
     "obrigatorio":  true,
-    "notas":  "Alterar Cupom: corrige bloqueio por venda aberta vazia no terminal.\nPDV: busca de produto por nome com sugestoes (lista desde a 1a letra, Enter confirma).\nPDV Express: Consultar Produto (F7) limpa o campo apos cada consulta.",
+    "notas":  "Cadastro produto caixa/fardo fechada. PDV preco embalagem fechada. Express desconto item em % ou R$ (Ctrl+D). Importador catalogo RSET. SQL 3.0.0.41.",
     "tamanho_mb":  56.5
 }
