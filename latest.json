@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.0",
+    "versao":  "2.39.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "698547d59ff8684acb2f22293b252aa82dc4d3fcc149d2e43a17295cca798c55",
+    "sha256":  "2387b1b098bf552a6539c3dcbdd706c3e70027e7f7822ef1b7137a2d9e54b5f3",
     "obrigatorio":  true,
-    "notas":  "Cadastro produto caixa/fardo fechada. PDV preco embalagem fechada. Express desconto item em % ou R$ (Ctrl+D). Importador catalogo RSET. SQL 3.0.0.41.",
+    "notas":  "Hotfix: cria colunas preco/qtde/tipo embalagem fechada automaticamente ao abrir (SQL 3.0.0.41).",
     "tamanho_mb":  56.5
 }
