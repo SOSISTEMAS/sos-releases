@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.3",
+    "versao":  "2.39.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2bfa94618d2d06625ce051978a434a8156da1077a96ae15b6a76a00f3568eb2c",
+    "sha256":  "238ae2c30432293b38a155f3b9630bd3ca1ec4a55948bf76a194e7b229a1ff15",
     "obrigatorio":  true,
-    "notas":  "Alterar cupom com venda em espera no PDV/Balcao. Balanca: corrige persistencia do tipo PRECO. Consulta produtos: coluna Estoque. Cadastro produto: corrige pergunta de inativar ao cadastrar.",
-    "tamanho_mb":  56.5
+    "notas":  "Cadastro de clientes com layout responsivo. NFe de saida: destinatario fornecedor para devolucao (sem cadastrar como cliente). Auto-migracao id_fornecedor_dest. Correcoes SQL WideMemo na lista e detalhe da NFe.",
+    "tamanho_mb":  56.6
 }
