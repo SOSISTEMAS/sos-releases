@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.4",
+    "versao":  "2.39.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "238ae2c30432293b38a155f3b9630bd3ca1ec4a55948bf76a194e7b229a1ff15",
+    "sha256":  "21ecae27ff4faf642a26a705b3891d55791367c998b6e582b013ea817a70621f",
     "obrigatorio":  true,
-    "notas":  "Cadastro de clientes com layout responsivo. NFe de saida: destinatario fornecedor para devolucao (sem cadastrar como cliente). Auto-migracao id_fornecedor_dest. Correcoes SQL WideMemo na lista e detalhe da NFe.",
+    "notas":  "NFe devolucao fornecedor: permite salvar sem id_cliente, corrige layout CPF/CNPJ sobreposto e exibe nome do fornecedor no destinatario.",
     "tamanho_mb":  56.6
 }
