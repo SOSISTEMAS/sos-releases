@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.2",
+    "versao":  "2.39.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c139c13f1a9f54b1f49138d70f754311071c52048b939b9e33c503f4f2d34ecd",
+    "sha256":  "2bfa94618d2d06625ce051978a434a8156da1077a96ae15b6a76a00f3568eb2c",
     "obrigatorio":  true,
-    "notas":  "Consulta de produtos: coluna Estoque com quantidade em tempo real. Cadastro de produto: corrigida confirmacao indevida de inativacao ao cadastrar novo item.",
+    "notas":  "Alterar cupom com venda em espera no PDV/Balcao. Balanca: corrige persistencia do tipo PRECO. Consulta produtos: coluna Estoque. Cadastro produto: corrige pergunta de inativar ao cadastrar.",
     "tamanho_mb":  56.5
 }
