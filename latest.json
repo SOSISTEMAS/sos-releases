@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.4",
+    "versao":  "2.40.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2a10e051ac94a8762a9fe179e6fd6329212d91401bca607c549da06a2f3517da",
+    "sha256":  "ab8ab70f24690a567caace9e7e6975c09c2c165605c0d8c82ef920b16480e222",
     "obrigatorio":  true,
-    "notas":  "Preview cupom nao fiscal, sangria no fechamento de caixa, correcoes impressao NFC-e.",
+    "notas":  "Fix NFC-e 2 vias: ambas cupom fiscal (nao imprime mais via conferencia nao fiscal).",
     "tamanho_mb":  56.6
 }
