@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.3",
+    "versao":  "2.40.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "f3c84c6d24d4afa84840161115dd11f42c31b8e5121a4f7f2187aff2c4f1fffe",
+    "sha256":  "2a10e051ac94a8762a9fe179e6fd6329212d91401bca607c549da06a2f3517da",
     "obrigatorio":  true,
-    "notas":  "Formas de pagamento SEFAZ pre-cadastradas no banco zerado; codigo fiscal bloqueado nas formas padrao do sistema.",
+    "notas":  "Preview cupom nao fiscal, sangria no fechamento de caixa, correcoes impressao NFC-e.",
     "tamanho_mb":  56.6
 }
