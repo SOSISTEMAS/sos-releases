@@ -1,8 +1,8 @@
 {
-    "versao":  "2.39.0.6",
+    "versao":  "2.40.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "66f9f500f69c64c944fe532db0d3bba2b95d07f46a897f349fc70bf14d3762ef",
+    "sha256":  "c0842e7c775d8c179ed627525f229421653c43c339c0050235c6df44b1e378f1",
     "obrigatorio":  true,
-    "notas":  "Fix DANFE NF-e no terminal de rede; desliga visualizacao SOAP no Chrome; pacote terminal inclui NFe\\Report.",
+    "notas":  "Correcao cupom PDV: forma de pagamento nao duplica/triplica apos rejeicao NFC-e (F10). Correcao NFC-e: reserva atomica do numero entre caixas (evita duplicidade SEFAZ).",
     "tamanho_mb":  56.6
 }
