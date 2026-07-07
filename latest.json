@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.2",
+    "versao":  "2.40.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6941bb45e35e8854fa9243b2c1d66eee9b718ede86109352d5dc2008f8845e26",
+    "sha256":  "f3c84c6d24d4afa84840161115dd11f42c31b8e5121a4f7f2187aff2c4f1fffe",
     "obrigatorio":  true,
-    "notas":  "Fix PDV: erro ao finalizar venda com PIX/F10. Instalacao: pede CNPJ, grava licenca do portal e categoria DIVERSOS. Login: alinha CNPJ zerado com portal automaticamente.",
+    "notas":  "Formas de pagamento SEFAZ pre-cadastradas no banco zerado; codigo fiscal bloqueado nas formas padrao do sistema.",
     "tamanho_mb":  56.6
 }
