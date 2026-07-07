@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.1",
+    "versao":  "2.40.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0406379fec32cc69b030bfe51e206542b05009c4058d4925609391c6464b45d7",
+    "sha256":  "6941bb45e35e8854fa9243b2c1d66eee9b718ede86109352d5dc2008f8845e26",
     "obrigatorio":  true,
-    "notas":  "Cadastro produto: opcao independente para vender por preco de fardo/caixa no PDV (checkbox + combo FARDO/CAIXA). Aplica preco da embalagem por codigo de barras ou quantidade.",
+    "notas":  "Fix PDV: erro ao finalizar venda com PIX/F10. Instalacao: pede CNPJ, grava licenca do portal e categoria DIVERSOS. Login: alinha CNPJ zerado com portal automaticamente.",
     "tamanho_mb":  56.6
 }
