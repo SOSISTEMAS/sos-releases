@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.0",
+    "versao":  "2.40.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c0842e7c775d8c179ed627525f229421653c43c339c0050235c6df44b1e378f1",
+    "sha256":  "0406379fec32cc69b030bfe51e206542b05009c4058d4925609391c6464b45d7",
     "obrigatorio":  true,
-    "notas":  "Correcao cupom PDV: forma de pagamento nao duplica/triplica apos rejeicao NFC-e (F10). Correcao NFC-e: reserva atomica do numero entre caixas (evita duplicidade SEFAZ).",
+    "notas":  "Cadastro produto: opcao independente para vender por preco de fardo/caixa no PDV (checkbox + combo FARDO/CAIXA). Aplica preco da embalagem por codigo de barras ou quantidade.",
     "tamanho_mb":  56.6
 }
