@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.5",
+    "versao":  "2.40.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ab8ab70f24690a567caace9e7e6975c09c2c165605c0d8c82ef920b16480e222",
+    "sha256":  "ed965e04b4996f6364ac25ce6827073c55c15b878e88750c80a5719cd3cade31",
     "obrigatorio":  true,
-    "notas":  "Fix NFC-e 2 vias: ambas cupom fiscal (nao imprime mais via conferencia nao fiscal).",
+    "notas":  "Fix CFOP Nota Entrada: permite 1xxx/2xxx/3xxx (reclassificacao). Antes so aceitava CFOP de saida 5/6.",
     "tamanho_mb":  56.6
 }
