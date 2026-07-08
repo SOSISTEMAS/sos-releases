@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.7",
+    "versao":  "2.40.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ed965e04b4996f6364ac25ce6827073c55c15b878e88750c80a5719cd3cade31",
+    "sha256":  "155e80c530dc8341d082ec40a295f28009d0e812337268ea57fcd318d51274d6",
     "obrigatorio":  true,
-    "notas":  "Fix CFOP Nota Entrada: permite 1xxx/2xxx/3xxx (reclassificacao). Antes so aceitava CFOP de saida 5/6.",
+    "notas":  "Fix venda duplicada na lista (encerravenda 2x): 1 linha por venda + bloqueio de segundo encerramento.",
     "tamanho_mb":  56.6
 }
