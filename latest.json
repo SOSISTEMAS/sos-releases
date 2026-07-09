@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.9",
+    "versao":  "2.40.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ee730fd7a19639ed64eff8a5fa89a23a016cc3bf156a5f6b109259518b0de847",
+    "sha256":  "9c6bf4aa54f398398355e38a424b79432e12ad9e2c306e4e25f6a28ace578ec7",
     "obrigatorio":  true,
-    "notas":  "Fix reimprimir/alterar cupom (Terminal WideMemo). ST Item/Todos na nota de entrada aplica CST 60/CSOSN 500 de verdade.",
+    "notas":  "Fix Monitor: sync nao trava apos estoque (double-free JSON); vendas voltam a enviar",
     "tamanho_mb":  56.6
 }
