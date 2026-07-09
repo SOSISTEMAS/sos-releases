@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.8",
+    "versao":  "2.40.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "155e80c530dc8341d082ec40a295f28009d0e812337268ea57fcd318d51274d6",
+    "sha256":  "ee730fd7a19639ed64eff8a5fa89a23a016cc3bf156a5f6b109259518b0de847",
     "obrigatorio":  true,
-    "notas":  "Fix venda duplicada na lista (encerravenda 2x): 1 linha por venda + bloqueio de segundo encerramento.",
+    "notas":  "Fix reimprimir/alterar cupom (Terminal WideMemo). ST Item/Todos na nota de entrada aplica CST 60/CSOSN 500 de verdade.",
     "tamanho_mb":  56.6
 }
