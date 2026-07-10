@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.10",
+    "versao":  "2.40.0.11",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "9c6bf4aa54f398398355e38a424b79432e12ad9e2c306e4e25f6a28ace578ec7",
+    "sha256":  "bf67afb11e99bb671b7d4869c990efebf3466927055fccfada14020a11c490fd",
     "obrigatorio":  true,
-    "notas":  "Fix Monitor: sync nao trava apos estoque (double-free JSON); vendas voltam a enviar",
+    "notas":  "PDV normal: produto depois quantidade. Sugestao por letra desligada. Express inalterado.",
     "tamanho_mb":  56.6
 }
