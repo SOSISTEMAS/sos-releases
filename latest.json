@@ -1,8 +1,8 @@
 {
-    "versao":  "2.41.0.0",
+    "versao":  "2.41.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c179eccc81ce4623e95bb03acbc6e28adda254fde2ddd319d7688f8b3606a52f",
+    "sha256":  "f8de371b7443c9685c6a6e66dcdd5d6b7e037d2e4b79cfd434521cd12a723516",
     "obrigatorio":  true,
-    "notas":  "PDV normal: produto depois quantidade + busca por letra (starts-with, Enter seleciona). Express inalterado.",
-    "tamanho_mb":  56.6
+    "notas":  "Fix envio XML contador: nao descarrega OpenSSL apos e-mail (SOS nao fecha); CreateProcess 7za correto; inclui 7za no pacote.",
+    "tamanho_mb":  56.9
 }
