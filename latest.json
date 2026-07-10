@@ -1,8 +1,8 @@
 {
-    "versao":  "2.40.0.11",
+    "versao":  "2.41.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "bf67afb11e99bb671b7d4869c990efebf3466927055fccfada14020a11c490fd",
+    "sha256":  "c179eccc81ce4623e95bb03acbc6e28adda254fde2ddd319d7688f8b3606a52f",
     "obrigatorio":  true,
-    "notas":  "PDV normal: produto depois quantidade. Sugestao por letra desligada. Express inalterado.",
+    "notas":  "PDV normal: produto depois quantidade + busca por letra (starts-with, Enter seleciona). Express inalterado.",
     "tamanho_mb":  56.6
 }
