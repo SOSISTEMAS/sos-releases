@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.3",
+    "versao":  "2.42.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2e4bbc3dc86511ddd280c0b0c4acb7cecf64c9280bcac171d41719ae204d683a",
+    "sha256":  "b69a4d8c30456112006d278e794535c469595349ff66522b08c21932df962240",
     "obrigatorio":  true,
-    "notas":  "PDV/Caixa Livre: grava total_venda e desconto = 0 na venda nova (evita SoftClean ven_009 NOT NULL em bancos migrados Mer19). Inclui fix NCM + estoque Compra/Venda/Margem.",
+    "notas":  "Nota de entrada: cria colunas entrada_propria/xml/protocolo/cancelamento em bancos migrados; mensagem clara se nao salvar; PDV ven_009=0 na venda nova (Mer19). Estoque Compra/Venda/Margem.",
     "tamanho_mb":  57
 }
