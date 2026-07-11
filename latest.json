@@ -1,8 +1,8 @@
 {
-    "versao":  "2.41.0.1",
+    "versao":  "2.42.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "f8de371b7443c9685c6a6e66dcdd5d6b7e037d2e4b79cfd434521cd12a723516",
+    "sha256":  "ba8377e5f9e50fd7ad3176a020b33aad56f528f2489a779e76e8b0693f83d229",
     "obrigatorio":  true,
-    "notas":  "Fix envio XML contador: nao descarrega OpenSSL apos e-mail (SOS nao fecha); CreateProcess 7za correto; inclui 7za no pacote.",
-    "tamanho_mb":  56.9
+    "notas":  "NFe Entrada Propria: emitir/transmitir SEFAZ (CFOP 1102), status Autorizada, Imprimir DANFE, Cancelar SEFAZ; estoque via Lancar Nota.",
+    "tamanho_mb":  57
 }
