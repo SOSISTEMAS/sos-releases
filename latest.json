@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.6",
+    "versao":  "2.42.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ea2142f2165bac80488d9efee31ded49d770cd5c14c3ce7d35f04310251a412f",
+    "sha256":  "626ede1b44801f579e8af73a4901a30abe6f300f577f888290881a215e32cea5",
     "obrigatorio":  true,
-    "notas":  "EMITIR NFE: botao Cancelar no rodape; CFOP da lista alinhado ao item (nao mais padrao 5927 do cabecalho). Inclui 2.42.0.5 SM tipo_pagamento nota entrada.",
+    "notas":  "EMITIR NFE: botao Cancelar visivel (estava fora da tela a direita). CFOP lista ok.",
     "tamanho_mb":  57
 }
