@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.1",
+    "versao":  "2.42.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "52e3aa5110d5b18d367088eb597340f5682f65296ee9c170454b2e1b9032c385",
+    "sha256":  "2c2833a1b52a1be409c2ac9303b3d54a3af403c77c48fa82097c031f4d6a789c",
     "obrigatorio":  true,
-    "notas":  "NFe Entrada Propria: valida NCM com mensagem clara (item/produto). Estoque Atual: totais em R$ de Compra (custo) e Venda; colunas VL COMPRA/VL VENDA no relatorio.",
+    "notas":  "NFe Entrada Propria: valida NCM com mensagem clara (item/produto). Estoque Atual (valor R$): Compra, Venda e Margem (R$ e %); relatorio VL COMPRA / VL VENDA / MARGEM.",
     "tamanho_mb":  57
 }
