@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.0",
+    "versao":  "2.42.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ba8377e5f9e50fd7ad3176a020b33aad56f528f2489a779e76e8b0693f83d229",
+    "sha256":  "52e3aa5110d5b18d367088eb597340f5682f65296ee9c170454b2e1b9032c385",
     "obrigatorio":  true,
-    "notas":  "NFe Entrada Propria: emitir/transmitir SEFAZ (CFOP 1102), status Autorizada, Imprimir DANFE, Cancelar SEFAZ; estoque via Lancar Nota.",
+    "notas":  "NFe Entrada Propria: valida NCM com mensagem clara (item/produto). Estoque Atual: totais em R$ de Compra (custo) e Venda; colunas VL COMPRA/VL VENDA no relatorio.",
     "tamanho_mb":  57
 }
