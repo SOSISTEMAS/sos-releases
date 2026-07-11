@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.4",
+    "versao":  "2.42.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "b69a4d8c30456112006d278e794535c469595349ff66522b08c21932df962240",
+    "sha256":  "60d0b2316333b7d393f8aa9bde357a0800eb9af1de4825bbcf234d32789c29a7",
     "obrigatorio":  true,
-    "notas":  "Nota de entrada: cria colunas entrada_propria/xml/protocolo/cancelamento em bancos migrados; mensagem clara se nao salvar; PDV ven_009=0 na venda nova (Mer19). Estoque Compra/Venda/Margem.",
+    "notas":  "SM Mercado: nota de entrada nao salvava — tipo_pagamento/transp_modalidade NOT NULL com NULL no INSERT. Fix NewRecord+BeforePost. Inclui 2.42.0.4 (colunas entrada propria).",
     "tamanho_mb":  57
 }
