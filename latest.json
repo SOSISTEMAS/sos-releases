@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.2",
+    "versao":  "2.42.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2c2833a1b52a1be409c2ac9303b3d54a3af403c77c48fa82097c031f4d6a789c",
+    "sha256":  "2e4bbc3dc86511ddd280c0b0c4acb7cecf64c9280bcac171d41719ae204d683a",
     "obrigatorio":  true,
-    "notas":  "NFe Entrada Propria: valida NCM com mensagem clara (item/produto). Estoque Atual (valor R$): Compra, Venda e Margem (R$ e %); relatorio VL COMPRA / VL VENDA / MARGEM.",
+    "notas":  "PDV/Caixa Livre: grava total_venda e desconto = 0 na venda nova (evita SoftClean ven_009 NOT NULL em bancos migrados Mer19). Inclui fix NCM + estoque Compra/Venda/Margem.",
     "tamanho_mb":  57
 }
