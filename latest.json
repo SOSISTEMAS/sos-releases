@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.5",
+    "versao":  "2.42.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "60d0b2316333b7d393f8aa9bde357a0800eb9af1de4825bbcf234d32789c29a7",
+    "sha256":  "ea2142f2165bac80488d9efee31ded49d770cd5c14c3ce7d35f04310251a412f",
     "obrigatorio":  true,
-    "notas":  "SM Mercado: nota de entrada nao salvava — tipo_pagamento/transp_modalidade NOT NULL com NULL no INSERT. Fix NewRecord+BeforePost. Inclui 2.42.0.4 (colunas entrada propria).",
+    "notas":  "EMITIR NFE: botao Cancelar no rodape; CFOP da lista alinhado ao item (nao mais padrao 5927 do cabecalho). Inclui 2.42.0.5 SM tipo_pagamento nota entrada.",
     "tamanho_mb":  57
 }
