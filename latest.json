@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.10",
+    "versao":  "2.42.0.11",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "dbef8b396554dd948a8388acae70abba0f28bc3535a65a79a938358ae83d9312",
+    "sha256":  "d766cd4f17ce8eb3055f4603ddc07b1d43da083b138bceff4ed036981956a37a",
     "obrigatorio":  true,
-    "notas":  "ST (Todos) na importacao XML agora grava no cadastro igual Definir como ST (CFOP 5405/CST 60/CSOSN 500): vincula por EAN/codigo antes, nao usa CFOP de entrada 1403 no produto.",
+    "notas":  "ST: regra fixa PIS/COFINS=99 no cadastro e na nota (nao herda 06 do XML). Inclui 2.42.0.10.",
     "tamanho_mb":  57
 }
