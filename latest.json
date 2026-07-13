@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.8",
+    "versao":  "2.42.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a85c59d4a6465af99a186330abf94e0e138cc90ffaef82227a781f16e7d4ab59",
+    "sha256":  "d2adac835e9d765a4236431dfeb11d9c95f4d7e98039c82587add47bc574f9e6",
     "obrigatorio":  true,
-    "notas":  "NFCe: rejeicao Valor do troco incorreto — vPag agora soma ite_003+troco_dinheiro (igual SAT/ECF). Ex: venda 9,50 paga 10 → vPag 10 + vTroco 0,50.",
+    "notas":  "Manifesto: Lancar Entrada usa XML completo ja no banco/arquivo antes da SEFAZ; retry 4x apos Ciencia; detalhe do erro SEFAZ no popup.",
     "tamanho_mb":  57
 }
