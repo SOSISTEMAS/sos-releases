@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.9",
+    "versao":  "2.42.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "d2adac835e9d765a4236431dfeb11d9c95f4d7e98039c82587add47bc574f9e6",
+    "sha256":  "dbef8b396554dd948a8388acae70abba0f28bc3535a65a79a938358ae83d9312",
     "obrigatorio":  true,
-    "notas":  "Manifesto: Lancar Entrada usa XML completo ja no banco/arquivo antes da SEFAZ; retry 4x apos Ciencia; detalhe do erro SEFAZ no popup.",
+    "notas":  "ST (Todos) na importacao XML agora grava no cadastro igual Definir como ST (CFOP 5405/CST 60/CSOSN 500): vincula por EAN/codigo antes, nao usa CFOP de entrada 1403 no produto.",
     "tamanho_mb":  57
 }
