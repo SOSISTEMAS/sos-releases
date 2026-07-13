@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.7",
+    "versao":  "2.42.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "626ede1b44801f579e8af73a4901a30abe6f300f577f888290881a215e32cea5",
+    "sha256":  "a85c59d4a6465af99a186330abf94e0e138cc90ffaef82227a781f16e7d4ab59",
     "obrigatorio":  true,
-    "notas":  "EMITIR NFE: botao Cancelar visivel (estava fora da tela a direita). CFOP lista ok.",
+    "notas":  "NFCe: rejeicao Valor do troco incorreto — vPag agora soma ite_003+troco_dinheiro (igual SAT/ECF). Ex: venda 9,50 paga 10 → vPag 10 + vTroco 0,50.",
     "tamanho_mb":  57
 }
