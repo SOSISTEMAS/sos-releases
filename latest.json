@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.11",
+    "versao":  "2.42.0.12",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "d766cd4f17ce8eb3055f4603ddc07b1d43da083b138bceff4ed036981956a37a",
+    "sha256":  "85f587968b10c3cef47a05e3ddddd3bf97a3a69827c2d4d954f529e8c9489793",
     "obrigatorio":  true,
-    "notas":  "ST: regra fixa PIS/COFINS=99 no cadastro e na nota (nao herda 06 do XML). Inclui 2.42.0.10.",
+    "notas":  "Cupom: opcao Nao imprimir decimais para quantidade inteira (1,000 -\u003e 1). Config PDV + cupom ESC/POS e grafico.",
     "tamanho_mb":  57
 }
