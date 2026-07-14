@@ -1,8 +1,8 @@
 {
-    "versao":  "2.42.0.12",
+    "versao":  "2.43.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "85f587968b10c3cef47a05e3ddddd3bf97a3a69827c2d4d954f529e8c9489793",
+    "sha256":  "bb19754d920e213cb8fac25121c6a511f36dacb6b52b97135320e8b981aef68a",
     "obrigatorio":  true,
-    "notas":  "Cupom: opcao Nao imprimir decimais para quantidade inteira (1,000 -\u003e 1). Config PDV + cupom ESC/POS e grafico.",
+    "notas":  "2.43.0.0 — Cupom termico simples (58/80); propaganda By Sos Sistemas condensada; nao imprimir decimais de qtde inteira ja marcado por padrao; instalador com gate pos_restore (seed/sequences/fix_schema).",
     "tamanho_mb":  57
 }
