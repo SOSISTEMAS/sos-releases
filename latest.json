@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.0",
+    "versao":  "2.43.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "bb19754d920e213cb8fac25121c6a511f36dacb6b52b97135320e8b981aef68a",
+    "sha256":  "6b54fbac2878f7a4e0ef8c1115e1176d2bca453bc0147d67e239e42052f39141",
     "obrigatorio":  true,
-    "notas":  "2.43.0.0 — Cupom termico simples (58/80); propaganda By Sos Sistemas condensada; nao imprimir decimais de qtde inteira ja marcado por padrao; instalador com gate pos_restore (seed/sequences/fix_schema).",
+    "notas":  "Cupom termico no PDF/grafico; propaganda 1 linha; PDV coletivo fecha todos os caixas; botoes PDV REIMPRIM/MENU",
     "tamanho_mb":  57
 }
