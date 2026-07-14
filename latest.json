@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.3",
+    "versao":  "2.43.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a376a520ab388bebc7bd57051d102003f3ac5a28066f1041d4a38e2d7f437d81",
+    "sha256":  "8c8fc49d78376cbd3699a9bef2ca65461ff6a767e9f8ddf10877d54e7fd5ebf7",
     "obrigatorio":  true,
-    "notas":  "Lucro do periodo na tela estoque; cupom rodape so Desenvolvido por www.sosistemas.com; titulo por logomarca; preview 58mm",
+    "notas":  "FIX critico hang: boot, ribbon, PDV cursor, Lucro periodo SQL, monitor HTTP.",
     "tamanho_mb":  57
 }
