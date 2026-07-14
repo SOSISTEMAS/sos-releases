@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.8",
+    "versao":  "2.43.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8c8fc49d78376cbd3699a9bef2ca65461ff6a767e9f8ddf10877d54e7fd5ebf7",
+    "sha256":  "2f4d526b35827cb275e89b199d3dedecdedd1de1d61a96c2c68369201eb56c2d",
     "obrigatorio":  true,
-    "notas":  "FIX critico hang: boot, ribbon, PDV cursor, Lucro periodo SQL, monitor HTTP.",
+    "notas":  "Botao ALTERAR CUPOM de volta no menu Vendas + fixes hang 2.43.0.8.",
     "tamanho_mb":  57
 }
