@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.2",
+    "versao":  "2.43.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "1b21d678a4fb5807648e7282fe662726f307ef9f902052467e67b125e440e293",
+    "sha256":  "a376a520ab388bebc7bd57051d102003f3ac5a28066f1041d4a38e2d7f437d81",
     "obrigatorio":  true,
-    "notas":  "Estoque valor R$: so qtd\u003e0 e custo sano; NFC-e cartao: nao zera valor_pag + completa vPag se menor que vNF",
+    "notas":  "Lucro do periodo na tela estoque; cupom rodape so Desenvolvido por www.sosistemas.com; titulo por logomarca; preview 58mm",
     "tamanho_mb":  57
 }
