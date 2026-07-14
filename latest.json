@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.9",
+    "versao":  "2.43.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2f4d526b35827cb275e89b199d3dedecdedd1de1d61a96c2c68369201eb56c2d",
+    "sha256":  "9c4fb26183b5a73873858581f5083de4a9ee72e01b7f443df1022dfc789f8670",
     "obrigatorio":  true,
-    "notas":  "Botao ALTERAR CUPOM de volta no menu Vendas + fixes hang 2.43.0.8.",
+    "notas":  "Auto-cria colunas de banco faltantes no boot (b_funcao_garcom, atacarejo, empresas config, nota_saida) - fix coluna nao existe apos update.",
     "tamanho_mb":  57
 }
