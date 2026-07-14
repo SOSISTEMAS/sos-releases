@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.1",
+    "versao":  "2.43.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6b54fbac2878f7a4e0ef8c1115e1176d2bca453bc0147d67e239e42052f39141",
+    "sha256":  "1b21d678a4fb5807648e7282fe662726f307ef9f902052467e67b125e440e293",
     "obrigatorio":  true,
-    "notas":  "Cupom termico no PDF/grafico; propaganda 1 linha; PDV coletivo fecha todos os caixas; botoes PDV REIMPRIM/MENU",
+    "notas":  "Estoque valor R$: so qtd\u003e0 e custo sano; NFC-e cartao: nao zera valor_pag + completa vPag se menor que vNF",
     "tamanho_mb":  57
 }
