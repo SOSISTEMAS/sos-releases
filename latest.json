@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.10",
+    "versao":  "2.43.0.12",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "9c4fb26183b5a73873858581f5083de4a9ee72e01b7f443df1022dfc789f8670",
+    "sha256":  "95ba1d978afde1d5e5c813dfacde72037e5cf48e9952116b5ba4486579f0c7fc",
     "obrigatorio":  true,
-    "notas":  "Auto-cria colunas de banco faltantes no boot (b_funcao_garcom, atacarejo, empresas config, nota_saida) - fix coluna nao existe apos update.",
+    "notas":  "Caixa: fechamento supervisionado quando abertura bloqueada + fechar caixas ao trocar modo coletivo/individual. Identifique-se aceita codigo do usuario (estilo Le Store).",
     "tamanho_mb":  57
 }
