@@ -1,8 +1,8 @@
 {
-    "versao":  "2.43.0.12",
+    "versao":  "2.43.0.14",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "95ba1d978afde1d5e5c813dfacde72037e5cf48e9952116b5ba4486579f0c7fc",
+    "sha256":  "06bfec830022c36711ccde0bad695ce6fc72b694bb95bac9088848e9ec54fd4e",
     "obrigatorio":  true,
-    "notas":  "Caixa: fechamento supervisionado quando abertura bloqueada + fechar caixas ao trocar modo coletivo/individual. Identifique-se aceita codigo do usuario (estilo Le Store).",
+    "notas":  "Novidades: apos atualizar, o sistema mostra as mudancas e correcoes uma unica vez ao abrir. Entradas: painel com total de notas lancadas. Diagnostico NFe entrada propria (logs). Caixa supervisionado e identificacao por codigo de usuario.",
     "tamanho_mb":  57
 }
