@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.3",
+    "versao":  "2.45.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "bbe673fd274496ab0aaeb37be55186dcf47b793e473e645673d31ce2b52c5d94",
+    "sha256":  "56aaf913fe1691d89f7c45306bd03e486dc54f4f09e837730abfbac626537e13",
     "obrigatorio":  true,
-    "notas":  "NFC-e: reimpressao nao cancela; 2 vias ESC/POS; impressora termica sem SoftClean Nao esta Ativo (ControlePorta).",
+    "notas":  "PDV: Ctrl+H imprime pre-fechamento/separacao da venda aberta (sem fechar, estoque ou fiscal). F6 intacto.",
     "tamanho_mb":  57
 }
