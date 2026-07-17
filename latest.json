@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.2",
+    "versao":  "2.45.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "267af56cb499ba3657c1bce837c2e2c5abcb4f227927573eac641ae81eb4c34b",
+    "sha256":  "bbe673fd274496ab0aaeb37be55186dcf47b793e473e645673d31ce2b52c5d94",
     "obrigatorio":  true,
-    "notas":  "Monitor: fila em disco (nao perde venda ao reiniciar), sync em thread (PDV aberto nao trava nuvem), backfill automatico do dia, Delivery/Mesa tambem enviam venda; data_hora alinhada ao Resumo Financeiro.",
+    "notas":  "NFC-e: reimpressao nao cancela; 2 vias ESC/POS; impressora termica sem SoftClean Nao esta Ativo (ControlePorta).",
     "tamanho_mb":  57
 }
