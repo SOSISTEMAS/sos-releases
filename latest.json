@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.1",
+    "versao":  "2.45.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a84684543c2f3620da07b21c9854e8ae9ccc1e9ad8cdaf629117067fa2b61744",
+    "sha256":  "267af56cb499ba3657c1bce837c2e2c5abcb4f227927573eac641ae81eb4c34b",
     "obrigatorio":  true,
-    "notas":  "PDV: alterar quantidade (Ctrl+E) e bip sem travar em 1; selecao de vendedor por codigo; cupom termico: corte forçado (guilhotina) + sem logo BMP em impressora de rede (evita papel enorme/lixo).",
+    "notas":  "Monitor: fila em disco (nao perde venda ao reiniciar), sync em thread (PDV aberto nao trava nuvem), backfill automatico do dia, Delivery/Mesa tambem enviam venda; data_hora alinhada ao Resumo Financeiro.",
     "tamanho_mb":  57
 }
