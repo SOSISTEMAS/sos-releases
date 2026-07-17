@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.0",
+    "versao":  "2.45.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c5ca45def466f2c462b922cbee0af565da267d2b28d0577fb55640cd8f8dd313",
+    "sha256":  "a84684543c2f3620da07b21c9854e8ae9ccc1e9ad8cdaf629117067fa2b61744",
     "obrigatorio":  true,
-    "notas":  "Delivery: Confirmar no pedido = Finalizar com entregador + Menu fiscal (Impressora/NFC-e) igual PDV. PIX no Fechamento. Aba Finalizadas (sit=1). Novidades ao atualizar.",
+    "notas":  "PDV: alterar quantidade (Ctrl+E) e bip sem travar em 1; selecao de vendedor por codigo; cupom termico: corte forçado (guilhotina) + sem logo BMP em impressora de rede (evita papel enorme/lixo).",
     "tamanho_mb":  57
 }
