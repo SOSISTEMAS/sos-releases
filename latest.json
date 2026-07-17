@@ -1,8 +1,8 @@
 {
-    "versao":  "2.44.0.0",
+    "versao":  "2.45.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8330c878ff65a9e1e43b3d4022d16467ae68f870192f4812e4c086a5c5897a79",
+    "sha256":  "c5ca45def466f2c462b922cbee0af565da267d2b28d0577fb55640cd8f8dd313",
     "obrigatorio":  true,
-    "notas":  "1. Correcao NFe entrada propria (Parameter id not found).\n2. Novidades numeradas e janela menor apos atualizar.\n3. Entradas: painel com total de notas lancadas.\n4. Caixa supervisionado e identificacao por codigo de usuario.",
+    "notas":  "Delivery: Confirmar no pedido = Finalizar com entregador + Menu fiscal (Impressora/NFC-e) igual PDV. PIX no Fechamento. Aba Finalizadas (sit=1). Novidades ao atualizar.",
     "tamanho_mb":  57
 }
