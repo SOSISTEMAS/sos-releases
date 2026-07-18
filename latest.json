@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.9",
+    "versao":  "2.45.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ccd621489b940f9e5266b0faf9ae9d16b4474c70a5ed4aaa910355e44dfafeb9",
+    "sha256":  "818b8976f665c5fe1de5edf65550a48da1251ea03c67de25728c8145f68d0b34",
     "obrigatorio":  true,
-    "notas":  "2.45.0.8 + fix acentos cadastro usuario (ANSI); Reabrir Caixa; reimprimir cupom por data",
+    "notas":  "Fix REIMPR. CUPOM travava: pesquisa so apos FormShow + SQL por periodo via JOIN encerravenda (sem full scan). Mantem reimprimir por data.",
     "tamanho_mb":  57
 }
