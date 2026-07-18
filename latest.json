@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.7",
+    "versao":  "2.45.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "94a35e2d3140bc7c93156f451e08a77777028915c107050d7f3ddef4500ffaad",
+    "sha256":  "acdc33dc1c608068b67b64d7060c43c9e0cc23efb58da08f37175b351791a523",
     "obrigatorio":  true,
-    "notas":  "Fix cadastro usuarios: botoes do rodape nao cortam em monitor pequeno (FlowPanel 2 linhas + caption Copiar permissoes + clamp WorkArea)",
+    "notas":  "Reabrir Caixa no Resumo; reimprimir cupom por periodo/data (nao so caixa atual); rodape usuarios monitor pequeno",
     "tamanho_mb":  57
 }
