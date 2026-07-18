@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.8",
+    "versao":  "2.45.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "acdc33dc1c608068b67b64d7060c43c9e0cc23efb58da08f37175b351791a523",
+    "sha256":  "ccd621489b940f9e5266b0faf9ae9d16b4474c70a5ed4aaa910355e44dfafeb9",
     "obrigatorio":  true,
-    "notas":  "Reabrir Caixa no Resumo; reimprimir cupom por periodo/data (nao so caixa atual); rodape usuarios monitor pequeno",
+    "notas":  "2.45.0.8 + fix acentos cadastro usuario (ANSI); Reabrir Caixa; reimprimir cupom por data",
     "tamanho_mb":  57
 }
