@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.4",
+    "versao":  "2.45.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "56aaf913fe1691d89f7c45306bd03e486dc54f4f09e837730abfbac626537e13",
+    "sha256":  "f003a299830f175df03a183d07e1207e83282fc2239151a4ca0d0c28f0f496c5",
     "obrigatorio":  true,
-    "notas":  "PDV: Ctrl+H imprime pre-fechamento/separacao da venda aberta (sem fechar, estoque ou fiscal). F6 intacto.",
+    "notas":  "Qualidade impressao termica: configurar em 1 clique (ESC/POS EscPosEpson + corte). Skip logo BMP no spooler. Drivers/LEIA-ME.",
     "tamanho_mb":  57
 }
