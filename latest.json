@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.6",
+    "versao":  "2.45.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "e146d271f739e1fab6fa1aa39846be0fc66a6edf265b65da9f38efb265a67f24",
+    "sha256":  "94a35e2d3140bc7c93156f451e08a77777028915c107050d7f3ddef4500ffaad",
     "obrigatorio":  true,
-    "notas":  "Fix colunas termica: 80mm=48 (nao 30 ACBr); sync ColunasFonteNormal; COLUNAS tambem em CONFIGURACAO.XML; labels bobina com colunas",
+    "notas":  "Fix cadastro usuarios: botoes do rodape nao cortam em monitor pequeno (FlowPanel 2 linhas + caption Copiar permissoes + clamp WorkArea)",
     "tamanho_mb":  57
 }
