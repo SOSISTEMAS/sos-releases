@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.5",
+    "versao":  "2.45.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "f003a299830f175df03a183d07e1207e83282fc2239151a4ca0d0c28f0f496c5",
+    "sha256":  "e146d271f739e1fab6fa1aa39846be0fc66a6edf265b65da9f38efb265a67f24",
     "obrigatorio":  true,
-    "notas":  "Qualidade impressao termica: configurar em 1 clique (ESC/POS EscPosEpson + corte). Skip logo BMP no spooler. Drivers/LEIA-ME.",
+    "notas":  "Fix colunas termica: 80mm=48 (nao 30 ACBr); sync ColunasFonteNormal; COLUNAS tambem em CONFIGURACAO.XML; labels bobina com colunas",
     "tamanho_mb":  57
 }
