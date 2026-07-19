@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.12",
+    "versao":  "2.46.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "18dbd5428be79b7aace6eecdb88fd0a45afa6f711a4ed1b7cb2c6b7fbebe9cfa",
+    "sha256":  "6e6d36549243dc878129e56242ef2e5b035b8622b8dac607cfac2c82ef3c3791",
     "obrigatorio":  true,
-    "notas":  "NFC-e modo grafico: impressao Fortes direta com QR (sem PDF intermediario).",
+    "notas":  "Caixa Atual: busca/reabrir datas + abertura mais rapida. Rodape passa a mostrar versao curta (2.46).",
     "tamanho_mb":  57.3
 }
