@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.10",
+    "versao":  "2.45.0.11",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "818b8976f665c5fe1de5edf65550a48da1251ea03c67de25728c8145f68d0b34",
+    "sha256":  "4c79c5737962a1f907e2d9ad92c3b15b2c986faeb4f0bb746988cbba34d756d7",
     "obrigatorio":  true,
-    "notas":  "Fix REIMPR. CUPOM travava: pesquisa so apos FormShow + SQL por periodo via JOIN encerravenda (sem full scan). Mantem reimprimir por data.",
+    "notas":  "FIX URGENTE REIMPR. CUPOM: selecao de cupom restaurada (IdVendaSelecionada + foco no grid apos Open); pesquisa por data sem full scan e sem quebrar campos do grid; FormShow pinta antes do SQL (menos trava). Nao altera impressora/grafica.",
     "tamanho_mb":  57
 }
