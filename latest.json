@@ -1,8 +1,8 @@
 {
-    "versao":  "2.45.0.11",
+    "versao":  "2.45.0.12",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "4c79c5737962a1f907e2d9ad92c3b15b2c986faeb4f0bb746988cbba34d756d7",
+    "sha256":  "18dbd5428be79b7aace6eecdb88fd0a45afa6f711a4ed1b7cb2c6b7fbebe9cfa",
     "obrigatorio":  true,
-    "notas":  "FIX URGENTE REIMPR. CUPOM: selecao de cupom restaurada (IdVendaSelecionada + foco no grid apos Open); pesquisa por data sem full scan e sem quebrar campos do grid; FormShow pinta antes do SQL (menos trava). Nao altera impressora/grafica.",
-    "tamanho_mb":  57
+    "notas":  "NFC-e modo grafico: impressao Fortes direta com QR (sem PDF intermediario).",
+    "tamanho_mb":  57.3
 }
