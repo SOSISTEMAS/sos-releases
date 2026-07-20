@@ -1,8 +1,8 @@
 {
-    "versao":  "2.50.0.0",
+    "versao":  "2.51.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "22c2235d8e6e54734b218759e112bd80173e368b21826e265c2d070282f42f77",
+    "sha256":  "1bbf3ca2c175879eff24a34116d560f7c0e32bb64e662f9f43cf30a8a3415a89",
     "obrigatorio":  true,
-    "notas":  "Cadastro de usuarios: atalhos de emergencia (Ins/F2/F10/Esc/F8/F6) e rodape reforcado quando botoes somem.",
+    "notas":  "Cadastro/Consulta usuarios: botoes no topo; scroll no cadastro (ultima permissao Vendas); atalhos Ins/F2/F10/Esc/F8/F6.",
     "tamanho_mb":  57.3
 }
