@@ -1,8 +1,8 @@
 {
-    "versao":  "2.47.0.0",
+    "versao":  "2.48.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "b3c39978392dfedffd46830e070a0d5295c98a1feb6d1f8352fccb70b5e02684",
+    "sha256":  "022e2aaab7aa59bb19010c5b34f742c6d7197b425e0662f24d79e37e6958e4a2",
     "obrigatorio":  true,
-    "notas":  "Perf: REIMPR CUPOM e Caixa Atual mais rapidos (indices + fn_saldo + SQL filtrada). Rodar Scripts/perf_indices_caixa_reimprimir.sql e perf_fn_saldo_caixa.sql no banco do cliente se ainda nao tiver.",
+    "notas":  "Cupom grafico: troco correto; esconde desconto/acrescimo zerados; compacta espaco do rodape. Menu: esconde CANCELAR cupom e REIMPR. ORC (usar REIMPR CUPOM F9 e Consultar Orcamento F3).",
     "tamanho_mb":  57.3
 }
