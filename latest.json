@@ -1,8 +1,8 @@
 {
-    "versao":  "2.48.0.0",
+    "versao":  "2.49.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "022e2aaab7aa59bb19010c5b34f742c6d7197b425e0662f24d79e37e6958e4a2",
+    "sha256":  "0b491b1f371d3d1496e46f54330908a13ed791517b93649ea31af6138b4e7de4",
     "obrigatorio":  true,
-    "notas":  "Cupom grafico: troco correto; esconde desconto/acrescimo zerados; compacta espaco do rodape. Menu: esconde CANCELAR cupom e REIMPR. ORC (usar REIMPR CUPOM F9 e Consultar Orcamento F3).",
+    "notas":  "Hotfix Caixa Atual/Fechamento: corrige id_caixa ambigua no SQL (perf 19/07) e closed dataset no fechamento.",
     "tamanho_mb":  57.3
 }
