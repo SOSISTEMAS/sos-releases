@@ -1,8 +1,8 @@
 {
-    "versao":  "2.49.0.0",
+    "versao":  "2.50.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0b491b1f371d3d1496e46f54330908a13ed791517b93649ea31af6138b4e7de4",
+    "sha256":  "22c2235d8e6e54734b218759e112bd80173e368b21826e265c2d070282f42f77",
     "obrigatorio":  true,
-    "notas":  "Hotfix Caixa Atual/Fechamento: corrige id_caixa ambigua no SQL (perf 19/07) e closed dataset no fechamento.",
+    "notas":  "Cadastro de usuarios: atalhos de emergencia (Ins/F2/F10/Esc/F8/F6) e rodape reforcado quando botoes somem.",
     "tamanho_mb":  57.3
 }
