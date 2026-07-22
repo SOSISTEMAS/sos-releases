@@ -1,8 +1,8 @@
 {
-    "versao":  "2.55.0.0",
+    "versao":  "2.56.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "34da85124f997b90e5373c2a18cbb9299bc9f004a57f3f1c04a12d433f6218c1",
+    "sha256":  "150e62b6d9e20fda32b32e9aca0a1d9ee8bd6c0049a0186148b668690c546e1a",
     "obrigatorio":  true,
-    "notas":  "Fix Runtime 217 apos update: relaunch com WorkingDirectory C:\\SOS\\Win64. Inclui 2.54 (cupom 58mm, SoftClean composicao, etiqueta historico).",
+    "notas":  "58mm: menos papel (sem corte falso + linhas); pc1252 grava e migra de pc850. Buffer 0 e logo ja no 2.54/2.55.",
     "tamanho_mb":  57.3
 }
