@@ -1,8 +1,8 @@
 {
-    "versao":  "2.56.0.0",
+    "versao":  "2.57.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "150e62b6d9e20fda32b32e9aca0a1d9ee8bd6c0049a0186148b668690c546e1a",
+    "sha256":  "12f36e545fbceabe521aaad7ab81509c9e3d352b4d167db1924bc52c41b0cea3",
     "obrigatorio":  true,
-    "notas":  "58mm: menos papel (sem corte falso + linhas); pc1252 grava e migra de pc850. Buffer 0 e logo ja no 2.54/2.55.",
+    "notas":  "NFe saida: nome fornecedor nao espelha cliente; CFOP vazio/inexistente nao estoura FK. Inclui 2.56 58mm.",
     "tamanho_mb":  57.3
 }
