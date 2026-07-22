@@ -1,8 +1,8 @@
 {
-    "versao":  "2.53.0.0",
+    "versao":  "2.54.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "19f7ef6d0853637c11bd415188b879d22dcd06c45b08c56352c6148914ed6f67",
+    "sha256":  "9add97ce759ad76770f510289a1c48c24eb06dec8a3e50cd61ae6b629bd6b431",
     "obrigatorio":  true,
-    "notas":  "Delivery: Salvar grava EM PROCESSO (nao finaliza); botao + inserir produto; Novo Pedido abre busca de cliente com opcao Novo Cliente; Fortes FS NFS-e entrada.",
+    "notas":  "Cupom 58mm: buffer 0 grava; sem logo BMP na bobina estreita. SoftClean composicao. Etiqueta com historico na lista. Delivery Salvar vs Finalizar.",
     "tamanho_mb":  57.3
 }
