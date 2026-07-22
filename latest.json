@@ -1,8 +1,8 @@
 {
-    "versao":  "2.54.0.0",
+    "versao":  "2.55.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "9add97ce759ad76770f510289a1c48c24eb06dec8a3e50cd61ae6b629bd6b431",
+    "sha256":  "34da85124f997b90e5373c2a18cbb9299bc9f004a57f3f1c04a12d433f6218c1",
     "obrigatorio":  true,
-    "notas":  "Cupom 58mm: buffer 0 grava; sem logo BMP na bobina estreita. SoftClean composicao. Etiqueta com historico na lista. Delivery Salvar vs Finalizar.",
+    "notas":  "Fix Runtime 217 apos update: relaunch com WorkingDirectory C:\\SOS\\Win64. Inclui 2.54 (cupom 58mm, SoftClean composicao, etiqueta historico).",
     "tamanho_mb":  57.3
 }
