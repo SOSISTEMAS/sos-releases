@@ -1,8 +1,8 @@
 {
-    "versao":  "2.57.0.0",
+    "versao":  "2.58.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "12f36e545fbceabe521aaad7ab81509c9e3d352b4d167db1924bc52c41b0cea3",
+    "sha256":  "83243c8103028804c4e3cdd6c2692455c093667a7853e2599d2af66b2951eee6",
     "obrigatorio":  true,
-    "notas":  "NFe saida: nome fornecedor nao espelha cliente; CFOP vazio/inexistente nao estoura FK. Inclui 2.56 58mm.",
-    "tamanho_mb":  57.3
+    "notas":  "Delivery Modern Light: botoes com icones, grade/fonte viva, moldura, filtros e detalhes no padrao visual aprovado. Icones ico_del_* no pacote.",
+    "tamanho_mb":  57.9
 }
