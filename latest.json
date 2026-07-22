@@ -1,8 +1,8 @@
 {
-    "versao":  "2.52.0.0",
+    "versao":  "2.53.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "213ba93fbfb10cbab945209b35589b804198b205275de3cf024009e2fb669170",
+    "sha256":  "19f7ef6d0853637c11bd415188b879d22dcd06c45b08c56352c6148914ed6f67",
     "obrigatorio":  true,
-    "notas":  "Export Fortes FS (contador Lucro Real): NFe 55 entrada/saida + NFC-e 65 + NFS-e entrada (tomador) ESI/IES. Botao FORTES FS / CONTADOR no menu fiscal. Cadastro minimo NFS-e entrada + gerar arquivo .fs.",
+    "notas":  "Delivery: Salvar grava EM PROCESSO (nao finaliza); botao + inserir produto; Novo Pedido abre busca de cliente com opcao Novo Cliente; Fortes FS NFS-e entrada.",
     "tamanho_mb":  57.3
 }
