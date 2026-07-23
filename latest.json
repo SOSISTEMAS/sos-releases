@@ -1,8 +1,8 @@
 {
-    "versao":  "2.58.0.0",
+    "versao":  "2.59.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "83243c8103028804c4e3cdd6c2692455c093667a7853e2599d2af66b2951eee6",
+    "sha256":  "7547300c8a15cae5de418fe05e4927a655b3cd814adcf9b9d33a55415e77816d",
     "obrigatorio":  true,
-    "notas":  "Delivery Modern Light: botoes com icones, grade/fonte viva, moldura, filtros e detalhes no padrao visual aprovado. Icones ico_del_* no pacote.",
+    "notas":  "Delivery F6 Finalizar na volta / F7 Saida. Removido nao perguntar impressao caixa. Relatorio fiscal NCM: Excel e CSV. SMTP Gmail fechamento.",
     "tamanho_mb":  57.9
 }
