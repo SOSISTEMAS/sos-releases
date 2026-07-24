@@ -1,8 +1,8 @@
 {
-    "versao":  "2.59.0.0",
+    "versao":  "2.60.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "7547300c8a15cae5de418fe05e4927a655b3cd814adcf9b9d33a55415e77816d",
+    "sha256":  "91edae40f4ca3270ec08b1df5e6cafb28068b8b33d40aa372fcab1eac85e6687",
     "obrigatorio":  true,
-    "notas":  "Delivery F6 Finalizar na volta / F7 Saida. Removido nao perguntar impressao caixa. Relatorio fiscal NCM: Excel e CSV. SMTP Gmail fechamento.",
+    "notas":  "Fechamento caixa: email nao derruba mais o SOS (thread SSL com try/except); impressao comprovante via PosImp_ImprimirComCorte (corte Epson, evita papel branco/gigante). LN Mini Pizza + demais lojas.",
     "tamanho_mb":  57.9
 }
