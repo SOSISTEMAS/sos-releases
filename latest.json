@@ -1,8 +1,8 @@
 {
-    "versao":  "2.62.0.0",
+    "versao":  "2.63.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0edbdadee9bd2cc9887ad6ca8e005bfc4583846354981d05a149093d936283e0",
+    "sha256":  "5e93d9f6a4733056e6149202f066d84e19f3f953c15912576d22de6be36e65a6",
     "obrigatorio":  true,
-    "notas":  "Lucro Real + Lucro Presumido na combo de Regime Tributario (crt_codigo 5 e 6, XML segue CRT=3 Normal). IBGE refresh: tabela cidades atualizada com 5571 municipios oficiais. Trigger trg_auto_cid_cliente: cliente.cid_001 preenche automaticamente quando CEP muda. Migration scripts em Tools/InstaladorSOS/migrations/2026-07-27_lucro_real_ibge.sql (idempotente).",
+    "notas":  "v2.63 - fiscal: regime tributario (crt_codigo 5/6/MEI -\u003e TpcnCRT=3 do ACBr)\r\n- 2 funcoes helper em uFuncoes.pas (TpcnCRT NFe + TpcnRegTrib SAT)\r\n- Comunicador.pas: SAT nao da mais exception em crt_codigo 3/5/6\r\n- Apenas fiscal, auto-update DESLIGADO por default (teste manual)",
     "tamanho_mb":  57.9
 }
