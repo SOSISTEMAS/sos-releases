@@ -1,8 +1,8 @@
 {
-    "versao":  "2.61.0.0",
+    "versao":  "2.62.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "b24968a10e2423353d36412f6257491079ce41af9d3df9215b5d7c20fe46f414",
+    "sha256":  "0edbdadee9bd2cc9887ad6ca8e005bfc4583846354981d05a149093d936283e0",
     "obrigatorio":  true,
-    "notas":  "Delivery: pergunta Sim/Nao antes de imprimir o cupom no Finalizar (mesmo padrao abrir/fechar caixa).",
+    "notas":  "Lucro Real + Lucro Presumido na combo de Regime Tributario (crt_codigo 5 e 6, XML segue CRT=3 Normal). IBGE refresh: tabela cidades atualizada com 5571 municipios oficiais. Trigger trg_auto_cid_cliente: cliente.cid_001 preenche automaticamente quando CEP muda. Migration scripts em Tools/InstaladorSOS/migrations/2026-07-27_lucro_real_ibge.sql (idempotente).",
     "tamanho_mb":  57.9
 }
