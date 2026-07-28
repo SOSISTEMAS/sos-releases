@@ -1,8 +1,8 @@
 {
-    "versao":  "2.63.0.0",
+    "versao":  "2.63.1.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a75a2289b29ec32ef30a5efb39245163cb711de24a998d972407dd680afb2da0",
+    "sha256":  "14d5eb21ff6c12796ca5ead6c4c1c3a8d5098e11e0c96b32acd3b9f3a1a062ba",
     "obrigatorio":  true,
-    "notas":  "v2.63 - fiscal: regime tributario (crt_codigo 4/5/6/MEI/Lucro Real/Presumido -\u003e TpcnCRT=3 do ACBr)\r\n- NFe saida: uControleNotaFiscalSaida.pas:540 (regime-1) -\u003e MapearCrtCodigoParaTpcnCRT\r\n- 2 funcoes helper em uFuncoes.pas (TpcnCRT NFe + TpcnRegTrib SAT)\r\n- Comunicador.pas: SAT nao da mais exception em crt_codigo 3/5/6\r\n- Apenas fiscal, auto-update DESLIGADO por default (teste manual)",
+    "notas":  "v2.63.1 - 6 regimes tributarios (1..6)\r\n- Banco: migration 2026-07-27_lucro_real_ibge.sql roda pos_restore (4=MEI, 5=LUCRO REAL, 6=LUCRO PRESUMIDO)\r\n- Mapeamento ACBr: 5/6 -\u003e TpcnCRT=3 (Regime Normal) e TpcnRegTrib=3\r\n- Fix NFe saida: uControleNotaFiscalSaida.pas:540 agora usa MapearCrtCodigoParaTpcnCRT\r\n- UI: Configuracoes \u003e Empresa \u003e dropdown Regime Tributario mostra 6 opcoes (banco precisa da migration)",
     "tamanho_mb":  57.9
 }
