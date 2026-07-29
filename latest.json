@@ -1,8 +1,8 @@
 {
-    "versao":  "2.65.1.0",
+    "versao":  "2.65.1.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a4d736a4c17033857402633163c935899163fcc69b350932037c02b92a504efb",
+    "sha256":  "3a5298a35d13c079c135b8e0c6f72da28c7538cd35e6289dec990885f1c1e2ad",
     "obrigatorio":  false,
-    "notas":  "Fix import NFe entrada: FK fk_nota_entrada_item_material (id_material=0). VerificaProdutos nao apaga vinculo; bloqueia item sem produto.",
+    "notas":  "Fix Salvar nota entrada: nao bloquear por chave XML em digitacao (sit=0). Inclui fix FK id_material=0 no import.",
     "tamanho_mb":  58
 }
