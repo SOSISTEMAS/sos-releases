@@ -1,8 +1,8 @@
 {
-    "versao":  "2.64.0.0",
+    "versao":  "2.65.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "46f7564c1f4ad2d87f1f1b6e12dbccb6fb3d9f5a6ea507305832ce3669787add",
+    "sha256":  "2e182df9311162aec0fb33599dde4c63a6df209cbec9fabe0f1c350579d37831",
     "obrigatorio":  true,
-    "notas":  "v2.64 - fiscal Messias + Lucro Real/Presumido\n- NFe: vTotTrib = PIS+COFINS+ICMS (nao aliquotas IBPT) — corrige rejeicao tributos aproximados\n- Regime: Lucro Real (5) e Lucro Presumido (6) no combo (insert no boot) + mapeamento CRT=3 no XML\n- NFe/NFCe/SAT/ECF: CST para regimes 2/3/5/6 (antes Lucro Real usava CSOSN por engano)\n- Testado no banco Messias (sos_messias_2807): notas autorizadas apos fix",
+    "notas":  "v2.65 - impressao fechamento + NFC-e + Manifesto XML\r\n- Fechamento caixa: PDF export sem depender de impressora PDF; aviso se falhar; email so com PDF gerado\r\n- Email: avisa usuario se SMTP falhar e NAO apaga o PDF\r\n- Remetente email: SOS Sistemas (era LeCheff)\r\n- NFC-e ESC/POS: avisa se termica falhou/indisponivel antes do fallback Fortes\r\n- Manifesto DFe: apos Ciencia busca procNFe por NSU (nao so por chave); cache nfe_completa_xml; corrige cStat=138 so com resumo",
     "tamanho_mb":  58
 }
