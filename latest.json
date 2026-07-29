@@ -1,8 +1,8 @@
 {
-    "versao":  "2.65.1.1",
+    "versao":  "2.65.1.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "3a5298a35d13c079c135b8e0c6f72da28c7538cd35e6289dec990885f1c1e2ad",
+    "sha256":  "98812705500e7016a145993333ae28d80305299ca70bf272a5f6dbfffd9b6b66",
     "obrigatorio":  false,
-    "notas":  "Fix Salvar nota entrada: nao bloquear por chave XML em digitacao (sit=0). Inclui fix FK id_material=0 no import.",
+    "notas":  "Fix corte termica (H2O/Elgin): remove avanco duplo LINHASANTESCORTE e corte_parcial encadeado - cupom nao corta ou sai papel demais.",
     "tamanho_mb":  58
 }
