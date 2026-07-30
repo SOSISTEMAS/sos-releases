@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.1",
+    "versao":  "2.66.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "aa5fc43be4ddad6ae70ff3d18f781e56e0e141fa233a018fa83e9f874e7d161e",
+    "sha256":  "4c0e1b27a62d01b63d19cacf128f8fe6258350fce2c49e11b62d6090de86e909",
     "obrigatorio":  true,
-    "notas":  "FIX BC ICMS: CST 60/CFOP 5405 (ST) zera vBC no XML + Total.vBC = soma itens. JB + Messias.",
+    "notas":  "NFCe: CEST com 6 digitos (ex 302101) agora completa com zero a esquerda (0302101). Evita rejeicao tamanho minimo CEST.",
     "tamanho_mb":  58
 }
