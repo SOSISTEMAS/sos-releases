@@ -1,8 +1,8 @@
 {
-    "versao":  "2.65.1.2",
+    "versao":  "2.66.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "98812705500e7016a145993333ae28d80305299ca70bf272a5f6dbfffd9b6b66",
-    "obrigatorio":  false,
-    "notas":  "Fix corte termica (H2O/Elgin): remove avanco duplo LINHASANTESCORTE e corte_parcial encadeado - cupom nao corta ou sai papel demais.",
+    "sha256":  "8775e5991014f34a6c5e01e133a02780fdf961618a958e9e9cee8e033bd47553",
+    "obrigatorio":  true,
+    "notas":  "NFe Total.vBC = soma itens (fix BC ICMS Messias); PDV busca so produtos ativos (sit_001=4)",
     "tamanho_mb":  58
 }
