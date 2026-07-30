@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.0",
+    "versao":  "2.66.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8775e5991014f34a6c5e01e133a02780fdf961618a958e9e9cee8e033bd47553",
+    "sha256":  "aa5fc43be4ddad6ae70ff3d18f781e56e0e141fa233a018fa83e9f874e7d161e",
     "obrigatorio":  true,
-    "notas":  "NFe Total.vBC = soma itens (fix BC ICMS Messias); PDV busca so produtos ativos (sit_001=4)",
+    "notas":  "FIX BC ICMS: CST 60/CFOP 5405 (ST) zera vBC no XML + Total.vBC = soma itens. JB + Messias.",
     "tamanho_mb":  58
 }
