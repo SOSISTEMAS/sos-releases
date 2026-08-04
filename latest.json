@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.2",
+    "versao":  "2.66.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "4c0e1b27a62d01b63d19cacf128f8fe6258350fce2c49e11b62d6090de86e909",
+    "sha256":  "5bd5cfb6b1c922176a4b2bdf38b136075569df3840fd33490a485fcdb6445928",
     "obrigatorio":  true,
-    "notas":  "ROLLBACK urgente: 2.66.0.5 SoftClean TLargeintField. Volta 2.66.0.2.",
-    "tamanho_mb":  58
+    "notas":  "PDV Express: corrige SoftClean TLargeintField e AV (campos/actions sem DFM). Delivery: evita EInvalidPointer no refresh. Monitor: timer nao derruba PDV.",
+    "tamanho_mb":  57.9
 }
