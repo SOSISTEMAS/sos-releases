@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.2",
+    "versao":  "2.66.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "4c0e1b27a62d01b63d19cacf128f8fe6258350fce2c49e11b62d6090de86e909",
+    "sha256":  "43b552ed2f6baa579acd78163e22fb4c481cdadabd690a2562671fae06cd6392",
     "obrigatorio":  true,
-    "notas":  "NFCe: CEST com 6 digitos (ex 302101) agora completa com zero a esquerda (0302101). Evita rejeicao tamanho minimo CEST.",
-    "tamanho_mb":  58
+    "notas":  "NFe entrada: itens alterados ficam verdes na digitacao (PR #21)",
+    "tamanho_mb":  57.9
 }
