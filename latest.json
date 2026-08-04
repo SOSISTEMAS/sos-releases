@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.3",
+    "versao":  "2.66.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "43b552ed2f6baa579acd78163e22fb4c481cdadabd690a2562671fae06cd6392",
+    "sha256":  "a468adf8084454e21927145f84f4ea62b3ed1a7b2445cef09595d357224b8636",
     "obrigatorio":  true,
-    "notas":  "NFe entrada: itens alterados ficam verdes na digitacao (PR #21)",
+    "notas":  "Delivery: corrige EInvalidPointer no grid/timer com Monitor portal ativo",
     "tamanho_mb":  57.9
 }
