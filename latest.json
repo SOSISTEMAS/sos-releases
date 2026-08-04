@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.5",
+    "versao":  "2.66.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ac44ffa84ee9f72c2c6cec2c1ba52483e9d2e19edc3c18a0510276f9a58af601",
+    "sha256":  "4c0e1b27a62d01b63d19cacf128f8fe6258350fce2c49e11b62d6090de86e909",
     "obrigatorio":  true,
-    "notas":  "Delivery: evita EInvalidPointer no refresh do grid; Monitor: timer nao derruba PDV; HTTP nil seguro",
-    "tamanho_mb":  57.9
+    "notas":  "ROLLBACK urgente: 2.66.0.5 SoftClean TLargeintField. Volta 2.66.0.2.",
+    "tamanho_mb":  58
 }
