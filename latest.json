@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.4",
+    "versao":  "2.66.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a468adf8084454e21927145f84f4ea62b3ed1a7b2445cef09595d357224b8636",
+    "sha256":  "4c0e1b27a62d01b63d19cacf128f8fe6258350fce2c49e11b62d6090de86e909",
     "obrigatorio":  true,
-    "notas":  "Delivery: corrige EInvalidPointer no grid/timer com Monitor portal ativo",
-    "tamanho_mb":  57.9
+    "notas":  "ROLLBACK: remove 2.66.0.4 com erro. Volta 2.66.0.2 estavel.",
+    "tamanho_mb":  58
 }
