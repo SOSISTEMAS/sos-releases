@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.13",
+    "versao":  "2.66.0.14",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "211eae07d7a176d1a1dd56c21045be569daaebab5112c341f335f5726cef30db",
+    "sha256":  "9247f7f8e041dfce0009c5d00ac7007badcbb2a126e19b8566f9183c81f8f308",
     "obrigatorio":  true,
-    "notas":  "Hotfix: fechamento de caixa nao pode mais derrubar SOS (AV email PDF / ESC-POS) — H2O",
+    "notas":  "Delivery: layout detalhe, SafeRefresh, reopen apos AV, Lista Clientes, scripts campo. Pendente SoftClean F7 grade.",
     "tamanho_mb":  57.9
 }
