@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.12",
+    "versao":  "2.66.0.13",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "7bb6bdaa177c2640fe385fd2a1098bf38a63941f1203c8c7372ab29c4c3a52ff",
+    "sha256":  "211eae07d7a176d1a1dd56c21045be569daaebab5112c341f335f5726cef30db",
     "obrigatorio":  true,
-    "notas":  "Etiquetas INCLUIR lista acumulativa; Delivery busca cliente (unaccent/sit 3-5/fone); Configurar impressora ACBr real; Alterar Cupom NFe; Entrada propria/Lancar sit=2; rodape NFe entrada; auto-update retry",
+    "notas":  "Hotfix: fechamento de caixa nao pode mais derrubar SOS (AV email PDF / ESC-POS) — H2O",
     "tamanho_mb":  57.9
 }
