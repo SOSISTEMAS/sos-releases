@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.8",
+    "versao":  "2.66.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "5d4aaf5dc4e69bd634f1dbd8b3908f86489fbfd38d16d275af5acd8ab96f889d",
+    "sha256":  "962a62aafa9df08f58e3c9cff52384e9dff8ed5cceeb86e0c9074e54e47e8f1f",
     "obrigatorio":  true,
-    "notas":  "Entrada propria: restaura botao Transmitir SEFAZ (sumiu do DFM) e CFOP do item volta a exigir 1/2/3 de entrada (nao 5/6 de saida).",
+    "notas":  "Entrada propria: Lancar Nota aceita id_situacao=2 (autorizada SEFAZ aguardando estoque). Status AUTORIZADA SEFAZ na grade.",
     "tamanho_mb":  57.9
 }
