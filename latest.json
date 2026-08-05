@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.10",
+    "versao":  "2.66.0.11",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "f7547d332b4674e2b2ccd8b0f9899c98dc2a25f2b45aa162e47f2b6f660d62e2",
+    "sha256":  "cd0da457808417154f7d41bb7b34853861bc9ed2dcb0ddbcadc9727ceebe8ef2",
     "obrigatorio":  true,
-    "notas":  "Auto-update: se .bat falhar (NVIDIA), limpa UPDATE_VERSAO_TENTADA e retenta; espera SOS fechar 90s; limpa guard apos sucesso.",
+    "notas":  "SM: rodape soma/qtd notas entrada; Alterar Cupom NFC-e; Entrada propria (Transmitir/CFOP/Lancar sit=2); auto-update retry NVIDIA; Delivery UI/Zap.",
     "tamanho_mb":  57.9
 }
