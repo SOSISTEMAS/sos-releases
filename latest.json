@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.6",
+    "versao":  "2.66.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "5bd5cfb6b1c922176a4b2bdf38b136075569df3840fd33490a485fcdb6445928",
+    "sha256":  "a6a7235bfdea7cdb036d0cc896b13a0cb1efd9661aa2be58f1fc9377df16a7b7",
     "obrigatorio":  true,
-    "notas":  "PDV Express: corrige SoftClean TLargeintField e AV (campos/actions sem DFM). Delivery: evita EInvalidPointer no refresh. Monitor: timer nao derruba PDV.",
+    "notas":  "Alterar Cupom: converte venda nao fiscal PDV/Balcao em NFC-e (senha+CPF+NCM/CFOP). Botao Entrada propria na NFe entrada. Delivery: acentos e botoes F10/F5; SoftClean emp_001 no Finalizar; poll WhatsApp restaurado.",
     "tamanho_mb":  57.9
 }
