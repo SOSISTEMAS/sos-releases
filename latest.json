@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.9",
+    "versao":  "2.66.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "962a62aafa9df08f58e3c9cff52384e9dff8ed5cceeb86e0c9074e54e47e8f1f",
+    "sha256":  "f7547d332b4674e2b2ccd8b0f9899c98dc2a25f2b45aa162e47f2b6f660d62e2",
     "obrigatorio":  true,
-    "notas":  "Entrada propria: Lancar Nota aceita id_situacao=2 (autorizada SEFAZ aguardando estoque). Status AUTORIZADA SEFAZ na grade.",
+    "notas":  "Auto-update: se .bat falhar (NVIDIA), limpa UPDATE_VERSAO_TENTADA e retenta; espera SOS fechar 90s; limpa guard apos sucesso.",
     "tamanho_mb":  57.9
 }
