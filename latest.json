@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.11",
+    "versao":  "2.66.0.12",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "cd0da457808417154f7d41bb7b34853861bc9ed2dcb0ddbcadc9727ceebe8ef2",
+    "sha256":  "7bb6bdaa177c2640fe385fd2a1098bf38a63941f1203c8c7372ab29c4c3a52ff",
     "obrigatorio":  true,
-    "notas":  "SM: rodape soma/qtd notas entrada; Alterar Cupom NFC-e; Entrada propria (Transmitir/CFOP/Lancar sit=2); auto-update retry NVIDIA; Delivery UI/Zap.",
+    "notas":  "Etiquetas INCLUIR lista acumulativa; Delivery busca cliente (unaccent/sit 3-5/fone); Configurar impressora ACBr real; Alterar Cupom NFe; Entrada propria/Lancar sit=2; rodape NFe entrada; auto-update retry",
     "tamanho_mb":  57.9
 }
