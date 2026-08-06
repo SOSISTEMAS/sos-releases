@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.20",
+    "versao":  "2.66.0.21",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ca391aa98e773187da34f35f2de96c87ed3f52f56725d16ab7f6b26f9addbfae",
+    "sha256":  "e125fd46f74e91dd783f58a2aa090a65dcf483fa5eac1d8bc2c0ccc674bd42f9",
     "obrigatorio":  true,
-    "notas":  "Perf Bugbot high: sem RecordCount REIMPR/NFCE; fechamento caixa query leve; cache bloqueio estoque; timeout 30s relatorios analiticos",
+    "notas":  "Config PDV: opcao Bloquear venda sem estoque (todas as telas). Delivery: TODOS colorido por status (processo/transito/agenda/finalizadas) + ativos no topo.",
     "tamanho_mb":  57.9
 }
