@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.19",
+    "versao":  "2.66.0.20",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a28627f0c435cae875be9d410f9617a3be4b7fbd52d4320f2de364e691550862",
+    "sha256":  "ca391aa98e773187da34f35f2de96c87ed3f52f56725d16ab7f6b26f9addbfae",
     "obrigatorio":  true,
-    "notas":  "SoftClean Delivery F6/F7; busca vendas por data (Reimprimir/NFC-e) sem travar; sangria com saldo; bloqueio venda sem estoque (opcional); fechamento caixa totais; filtro Delivery por nome; relatorios PDV (horario/ticket/margem/mes) + ribbon ABC sem duplicata",
+    "notas":  "Perf Bugbot high: sem RecordCount REIMPR/NFCE; fechamento caixa query leve; cache bloqueio estoque; timeout 30s relatorios analiticos",
     "tamanho_mb":  57.9
 }
