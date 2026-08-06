@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.17",
+    "versao":  "2.66.0.18",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ee9458159a6f7972176ae115267f023139b1717a7192a3b44903e116ff68f3c0",
+    "sha256":  "2b9a243ea51365daca3d880f5bc381aa597f903852a9a589cc5fd04870fc04c9",
     "obrigatorio":  true,
-    "notas":  "Delivery Detalhe: FormDestroy so nil (evita AV Read 0x8); Hide+Free WM apos modal; btEditar no FormShow; DrainPendingFree antes do Create.",
+    "notas":  "Delivery SoftClean: Free Detalhe/F6/F7 sem LimparBind+RemoveComponent (evita InvalidPointer/heap e hang Finaliza); Drain WM_FREE antes Create/Refresh; FormDestroy so nil.",
     "tamanho_mb":  57.9
 }
