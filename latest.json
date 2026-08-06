@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.18",
+    "versao":  "2.66.0.19",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "2b9a243ea51365daca3d880f5bc381aa597f903852a9a589cc5fd04870fc04c9",
+    "sha256":  "a28627f0c435cae875be9d410f9617a3be4b7fbd52d4320f2de364e691550862",
     "obrigatorio":  true,
-    "notas":  "Delivery SoftClean: Free Detalhe/F6/F7 sem LimparBind+RemoveComponent (evita InvalidPointer/heap e hang Finaliza); Drain WM_FREE antes Create/Refresh; FormDestroy so nil.",
+    "notas":  "SoftClean Delivery F6/F7; busca vendas por data (Reimprimir/NFC-e) sem travar; sangria com saldo; bloqueio venda sem estoque (opcional); fechamento caixa totais; filtro Delivery por nome; relatorios PDV (horario/ticket/margem/mes) + ribbon ABC sem duplicata",
     "tamanho_mb":  57.9
 }
