@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.14",
+    "versao":  "2.66.0.15",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "9247f7f8e041dfce0009c5d00ac7007badcbb2a126e19b8566f9183c81f8f308",
+    "sha256":  "e35d696e8e07703c10dad3262779ddce3f3be3a7cbaa6090638bfd69f5506f2e",
     "obrigatorio":  true,
-    "notas":  "Delivery: layout detalhe, SafeRefresh, reopen apos AV, Lista Clientes, scripts campo. Pendente SoftClean F7 grade.",
+    "notas":  "Delivery SoftClean Detalhe/F7 (Hide+Free adiado, PostSafeRefresh); smoke automatico Tools/test_delivery_softclean.ps1; Bugbot highs corrigidos",
     "tamanho_mb":  57.9
 }
