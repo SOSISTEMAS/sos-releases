@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.15",
+    "versao":  "2.66.0.16",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "e35d696e8e07703c10dad3262779ddce3f3be3a7cbaa6090638bfd69f5506f2e",
+    "sha256":  "33136b9390e2f010fdf9ea40d5a3e8e835d557cdd0ccc6c2ca35e35ddbcd6cee",
     "obrigatorio":  true,
-    "notas":  "Delivery SoftClean Detalhe/F7 (Hide+Free adiado, PostSafeRefresh); smoke automatico Tools/test_delivery_softclean.ps1; Bugbot highs corrigidos",
+    "notas":  "Delivery SoftClean estabilizado (Detalhe/F7 Hide+Free adiado; InvalidPointer sem MessageBox SoftClean); grid Delivery clicavel; fechamento preenche restante; TEMAS sem card imagem Delivery (fundo solido).",
     "tamanho_mb":  57.9
 }
