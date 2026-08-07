@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.3",
+    "versao":  "2.67.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "4644e4768e3f40d9bf494e03fe1a40a0a2f938d730a945b1f25e6618e113a289",
+    "sha256":  "799631208e4bbcc316b379b4f3823a8c9e78dac92583769b425f3f6a78dfbb85",
     "obrigatorio":  true,
-    "notas":  "Reparo pontual catalogo: aplica SQL allowlisted no login (primeiro template CST 40/41/50 zerar aliq/red base)",
+    "notas":  "Delivery WhatsApp: corrige List index out of bounds (8) no import (param :ven029 separado do :id)",
     "tamanho_mb":  57.9
 }
