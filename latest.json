@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.4",
+    "versao":  "2.67.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "799631208e4bbcc316b379b4f3823a8c9e78dac92583769b425f3f6a78dfbb85",
+    "sha256":  "5ce84dda2052d3f55c6c67f8f012eb80c87a1b7e68368fb3b20e0139598fc723",
     "obrigatorio":  true,
-    "notas":  "Delivery WhatsApp: corrige List index out of bounds (8) no import (param :ven029 separado do :id)",
+    "notas":  "Fix urgente: Monitor HTTP fora da UI - fim do freeze/lentidao no PDV (SM e demais)",
     "tamanho_mb":  57.9
 }
