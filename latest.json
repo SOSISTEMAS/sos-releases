@@ -1,8 +1,8 @@
 {
-    "versao":  "2.66.0.22",
+    "versao":  "2.67.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a099efa82ea7b7bdd79aac1204aa7c0a0979c9a4fd53b0f32621d9fccbf72c54",
+    "sha256":  "0243e46b6bd0dd55b0a3d179bbcb58bbb922245e85cabcec67b940a1dc5c7ea0",
     "obrigatorio":  true,
-    "notas":  "Monitor: backfill de vendas no CloudSync — 1 PC com Monitor sobe vendas dos ultimos 7 dias do banco (recupera painel SM). Idempotente no portal.",
+    "notas":  "Monitor: backfill de vendas (1 PC com Monitor recupera painel). Config PDV: bloquear venda sem estoque. Delivery: cores por status no TODOS.",
     "tamanho_mb":  57.9
 }
