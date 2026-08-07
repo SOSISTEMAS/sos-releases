@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.0",
+    "versao":  "2.67.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0243e46b6bd0dd55b0a3d179bbcb58bbb922245e85cabcec67b940a1dc5c7ea0",
+    "sha256":  "ee3bbddae13d4bc2de044219063a58e5956f258f39848866c024f809b289eca4",
     "obrigatorio":  true,
-    "notas":  "Monitor: backfill de vendas (1 PC com Monitor recupera painel). Config PDV: bloquear venda sem estoque. Delivery: cores por status no TODOS.",
+    "notas":  "Licenca reporta FileVersion pro portal (coluna VERSAO em Computadores). Monitor backfill ja na 2.67.",
     "tamanho_mb":  57.9
 }
