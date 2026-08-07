@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.1",
+    "versao":  "2.67.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ee3bbddae13d4bc2de044219063a58e5956f258f39848866c024f809b289eca4",
+    "sha256":  "1be9c8ac779a9566c2cd2f0f29c2ac9bf0164fc554a10df7ad556abdabfeee60",
     "obrigatorio":  true,
-    "notas":  "Licenca reporta FileVersion pro portal (coluna VERSAO em Computadores). Monitor backfill ja na 2.67.",
+    "notas":  "Monitor CloudSync: corrige double-free JSON (EInvalidPointer/AV) que travava GSyncBusy e deixava painel Offline apos 1o sync",
     "tamanho_mb":  57.9
 }
