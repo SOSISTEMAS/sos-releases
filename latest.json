@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.7",
+    "versao":  "2.67.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a96e9e6f70cfd09123ce6062556c57965a83381d63589fee9b89299347b313c5",
+    "sha256":  "642af4865c3d9376b72d803455d2007f08a0740c6251c334026a3a81005115e1",
     "obrigatorio":  true,
-    "notas":  "Fix AV ao enviar NFC-e por email (PDF/DANFE + logo) + fallback XML; PDV cancelamento FK vendaitem",
+    "notas":  "PDV normal: produto primeiro depois quantidade (anti-Enter leitor); Express inalterado",
     "tamanho_mb":  57.9
 }
