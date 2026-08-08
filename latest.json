@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.6",
+    "versao":  "2.67.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "5ce84dda2052d3f55c6c67f8f012eb80c87a1b7e68368fb3b20e0139598fc723",
+    "sha256":  "a96e9e6f70cfd09123ce6062556c57965a83381d63589fee9b89299347b313c5",
     "obrigatorio":  true,
-    "notas":  "Fix urgente: Monitor HTTP fora da UI - fim do freeze/lentidao no PDV (SM e demais)",
+    "notas":  "Fix AV ao enviar NFC-e por email (PDF/DANFE + logo) + fallback XML; PDV cancelamento FK vendaitem",
     "tamanho_mb":  57.9
 }
