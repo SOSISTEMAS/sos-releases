@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.8",
+    "versao":  "2.67.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "642af4865c3d9376b72d803455d2007f08a0740c6251c334026a3a81005115e1",
+    "sha256":  "e5183fe05c01a491e74408b6374e3dad3706d502f57880221ea506fd4d7edc3f",
     "obrigatorio":  true,
-    "notas":  "PDV normal: produto primeiro depois quantidade (anti-Enter leitor); Express inalterado",
+    "notas":  "Troco: detecta DINHEIRO com mais robustez + msg clara PIX/Cartao; PDV limpa produto pendente entre vendas (item de nota anterior)",
     "tamanho_mb":  57.9
 }
