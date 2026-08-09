@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.9",
+    "versao":  "2.67.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "e5183fe05c01a491e74408b6374e3dad3706d502f57880221ea506fd4d7edc3f",
+    "sha256":  "f68ac2e2e9b9aafbdb9042c6f3adda77f3eccf6dbcb1f1fcd65844581864545e",
     "obrigatorio":  true,
-    "notas":  "Troco: detecta DINHEIRO com mais robustez + msg clara PIX/Cartao; PDV limpa produto pendente entre vendas (item de nota anterior)",
+    "notas":  "Restaura Relatorios de estoque: Estoque atual (valor R$) compra/venda/margem + Lucro do periodo (vendas - custo). Feature tinha sumido do fonte entre 2.62 e 2.67.",
     "tamanho_mb":  57.9
 }
