@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.11",
+    "versao":  "2.67.0.12",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "d2b46a34eb355ff88fc29fb2a62be277c8170cc97a3b62658a05aa6bf11f523f",
+    "sha256":  "6eca49015c6a7a50c65642cfc28919c54e63fa85d9395b8fe010b3a4f86a6b88",
     "obrigatorio":  true,
-    "notas":  "Monitor: sync preco_custo (mat_012) no snapshot_estoque para totais compra/margem no painel web mobile.",
+    "notas":  "Monitor: formas de pagamento no sync venda_finalizada (espelho Relatorios)",
     "tamanho_mb":  57.9
 }
