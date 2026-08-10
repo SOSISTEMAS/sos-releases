@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.4",
+    "versao":  "2.68.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "fa3e740845c9ad6f782057260f7930b67478e2051beff0963046167a3c3bd891",
+    "sha256":  "12692859c7ae3104c5b3367ac4f3a062505d262b4de333d999c8b424ed54f38e",
     "obrigatorio":  true,
-    "notas":  "Restaura PDV Ctrl+H Pre-fechamento/Separacao (MR Bebidas)",
+    "notas":  "fix SoftClean Field estoque_minimo no PDV (Monitor snapshot + alias RelatorioEstoque)",
     "tamanho_mb":  57.9
 }
