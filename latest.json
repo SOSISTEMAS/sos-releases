@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.3",
+    "versao":  "2.68.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "1a113989c8d784b6707522ea8e4a158284500806907b42eba9fda315209b1e95",
+    "sha256":  "fa3e740845c9ad6f782057260f7930b67478e2051beff0963046167a3c3bd891",
     "obrigatorio":  true,
-    "notas":  "Fechamento caixa: remove PDF/FastReport (AV H2O) — so cupom termico + email texto",
+    "notas":  "Restaura PDV Ctrl+H Pre-fechamento/Separacao (MR Bebidas)",
     "tamanho_mb":  57.9
 }
