@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.0",
+    "versao":  "2.68.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "39ebc9e93fe8d526b2c504a1c62ddc58dd6fb9f48eb18e3ec3ff4af6dbaa48b6",
+    "sha256":  "c4e80215c936509ff71ed940e1f1582cd39708f2432c9424f78096e8d5a374ab",
     "obrigatorio":  true,
-    "notas":  "Monitor Relatorios fase 1: formas de pagamento no sync + painel horario/mes/ticket; filtro estoque qtd absurda; CloudSync preco_custo",
+    "notas":  "fix NFe: Total BC ICMS = soma itens (ICMS_CSTSemBaseCalculo CST 30/40/41/50/60 + CFOP 5405/5927) - regressao Messias no SM 2.68.0.0",
     "tamanho_mb":  57.9
 }
