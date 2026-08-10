@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.6",
+    "versao":  "2.68.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "73267ce605eb903c83de802e43490042bbb4947cd6eb8c69fe169481d62369d8",
+    "sha256":  "10ecfe8e86434eda9aa25178dc1434d45aa2aaf9a60c2ff4bd97c459a63b9226",
     "obrigatorio":  true,
-    "notas":  "Monitor: snapshot estoque ate 5000 produtos (custo/preco nao ficam so nos 400 primeiros)",
+    "notas":  "Lucro Real: setor USO E CONSUMO (CFOP 1556/2556/1407/2407/1551/2551) + CST 090 na entrada; estoque PDV/consulta filtra setor revenda",
     "tamanho_mb":  57.9
 }
