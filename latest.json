@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.2",
+    "versao":  "2.68.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6f02710b0231e3d041c08c0ef1b8ab0bddd1c784d184834eb253d8aeb9c5f272",
+    "sha256":  "1a113989c8d784b6707522ea8e4a158284500806907b42eba9fda315209b1e95",
     "obrigatorio":  true,
-    "notas":  "Fix impressao fechamento caixa (query leve + RAW: porta USB) H2O/MR Bebidas",
+    "notas":  "Fechamento caixa: remove PDF/FastReport (AV H2O) — so cupom termico + email texto",
     "tamanho_mb":  57.9
 }
