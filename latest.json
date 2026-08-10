@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.1",
+    "versao":  "2.68.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c4e80215c936509ff71ed940e1f1582cd39708f2432c9424f78096e8d5a374ab",
+    "sha256":  "6f02710b0231e3d041c08c0ef1b8ab0bddd1c784d184834eb253d8aeb9c5f272",
     "obrigatorio":  true,
-    "notas":  "fix NFe: Total BC ICMS = soma itens (ICMS_CSTSemBaseCalculo CST 30/40/41/50/60 + CFOP 5405/5927) - regressao Messias no SM 2.68.0.0",
+    "notas":  "Fix impressao fechamento caixa (query leve + RAW: porta USB) H2O/MR Bebidas",
     "tamanho_mb":  57.9
 }
