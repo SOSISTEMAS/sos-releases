@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.5",
+    "versao":  "2.68.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "12692859c7ae3104c5b3367ac4f3a062505d262b4de333d999c8b424ed54f38e",
+    "sha256":  "73267ce605eb903c83de802e43490042bbb4947cd6eb8c69fe169481d62369d8",
     "obrigatorio":  true,
-    "notas":  "fix SoftClean Field estoque_minimo no PDV (Monitor snapshot + alias RelatorioEstoque)",
+    "notas":  "Monitor: snapshot estoque ate 5000 produtos (custo/preco nao ficam so nos 400 primeiros)",
     "tamanho_mb":  57.9
 }
