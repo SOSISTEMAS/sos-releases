@@ -1,8 +1,8 @@
 {
-    "versao":  "2.67.0.12",
+    "versao":  "2.68.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6eca49015c6a7a50c65642cfc28919c54e63fa85d9395b8fe010b3a4f86a6b88",
+    "sha256":  "39ebc9e93fe8d526b2c504a1c62ddc58dd6fb9f48eb18e3ec3ff4af6dbaa48b6",
     "obrigatorio":  true,
-    "notas":  "Monitor: formas de pagamento no sync venda_finalizada (espelho Relatorios)",
+    "notas":  "Monitor Relatorios fase 1: formas de pagamento no sync + painel horario/mes/ticket; filtro estoque qtd absurda; CloudSync preco_custo",
     "tamanho_mb":  57.9
 }
