@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.7",
+    "versao":  "2.68.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "10ecfe8e86434eda9aa25178dc1434d45aa2aaf9a60c2ff4bd97c459a63b9226",
+    "sha256":  "718a040f9952f68e89986deeeab44dd0aad431d2024d8c8d2d517c8010144ac3",
     "obrigatorio":  true,
-    "notas":  "Lucro Real: setor USO E CONSUMO (CFOP 1556/2556/1407/2407/1551/2551) + CST 090 na entrada; estoque PDV/consulta filtra setor revenda",
+    "notas":  "NFe saida: destinatario cliente/fornecedor separados + CFOP cabecalho nao grava vazio",
     "tamanho_mb":  57.9
 }
