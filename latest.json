@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.10",
+    "versao":  "2.68.0.11",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6dfbb7166817eb5e5772e5ae8ba2df5dd7956c1b261e5c42ec85c72ced54e050",
+    "sha256":  "9dd6163f89068a79612f6a5ca630651df4ccc773a4a6f9cc5563330c9e727e82",
     "obrigatorio":  true,
-    "notas":  "Tela da porta termica mostra \\\\localhost\\ (RAW so no ACBr; nao grava RAW no XML)",
+    "notas":  "Delivery: TOTAL do cupom grafico (banda totais) + sem rodape SOS/versao",
     "tamanho_mb":  57.9
 }
