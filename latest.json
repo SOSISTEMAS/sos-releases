@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.9",
+    "versao":  "2.68.0.10",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a8fabe63cb977908ee071d93e188abe20fadb31fb02fd45f8c8b6e0c080545b4",
+    "sha256":  "6dfbb7166817eb5e5772e5ae8ba2df5dd7956c1b261e5c42ec85c72ced54e050",
     "obrigatorio":  true,
-    "notas":  "Cupom Delivery: TOTAL do pedido (1+ itens), Qtd visivel, desconto zero oculto, endereco compacto, 1 linha no rodape, negrito sem corte",
+    "notas":  "Tela da porta termica mostra \\\\localhost\\ (RAW so no ACBr; nao grava RAW no XML)",
     "tamanho_mb":  57.9
 }
