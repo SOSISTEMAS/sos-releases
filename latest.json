@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.12",
+    "versao":  "2.68.0.13",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "3ce012d4f7789aec16fcd3e999c54c32582dfaa8d3807a7584e853206bcbec43",
+    "sha256":  "143097726c66bc54794652a7804f9dd9431d5f22158d29d9773f2810dd9df378",
     "obrigatorio":  true,
-    "notas":  "F10 Delivery: nao amarrar banda totais no cdsVenda (read-only field)",
+    "notas":  "Cupom Delivery: TOTAL sempre imprime (MasterData RowCount=1; nao depende de pagamento). Hang Detalhe: Free fora do OnClick.",
     "tamanho_mb":  57.9
 }
