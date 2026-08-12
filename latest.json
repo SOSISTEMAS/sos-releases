@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.8",
+    "versao":  "2.68.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "718a040f9952f68e89986deeeab44dd0aad431d2024d8c8d2d517c8010144ac3",
+    "sha256":  "a8fabe63cb977908ee071d93e188abe20fadb31fb02fd45f8c8b6e0c080545b4",
     "obrigatorio":  true,
-    "notas":  "NFe saida: destinatario cliente/fornecedor separados + CFOP cabecalho nao grava vazio",
+    "notas":  "Cupom Delivery: TOTAL do pedido (1+ itens), Qtd visivel, desconto zero oculto, endereco compacto, 1 linha no rodape, negrito sem corte",
     "tamanho_mb":  57.9
 }
