@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.13",
+    "versao":  "2.68.0.14",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "143097726c66bc54794652a7804f9dd9431d5f22158d29d9773f2810dd9df378",
+    "sha256":  "1ecbaabe5c8553c7bd499bdc7c5c422f1e29f69065466127bb7c3776313d7c32",
     "obrigatorio":  true,
-    "notas":  "Cupom Delivery: TOTAL sempre imprime (MasterData RowCount=1; nao depende de pagamento). Hang Detalhe: Free fora do OnClick.",
+    "notas":  "Cupom padrao Le Cheff (Delivery/PDV/caixa) + Elgin USB RAW/share. FileVersion 2.68.0.14.",
     "tamanho_mb":  57.9
 }
