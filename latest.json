@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.14",
+    "versao":  "2.68.0.15",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "1ecbaabe5c8553c7bd499bdc7c5c422f1e29f69065466127bb7c3776313d7c32",
+    "sha256":  "0c90ca7da01caf7a0a304d6cd66edfc51a9b24f8b04556c850c1ce5259966fe5",
     "obrigatorio":  true,
-    "notas":  "Cupom padrao Le Cheff (Delivery/PDV/caixa) + Elgin USB RAW/share. FileVersion 2.68.0.14.",
+    "notas":  "Hotfix Delivery: SoftClean frmControleDeliveryDetalheVenda already exists (So Limpeza)",
     "tamanho_mb":  57.9
 }
