@@ -1,8 +1,8 @@
 {
-    "versao":  "2.68.0.15",
+    "versao":  "2.70.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0c90ca7da01caf7a0a304d6cd66edfc51a9b24f8b04556c850c1ce5259966fe5",
+    "sha256":  "f0ea72a089add69c8cf8e425f005d12d9ed81d57b6de7ebda4a61c1e0d499b1c",
     "obrigatorio":  true,
-    "notas":  "Hotfix Delivery: SoftClean frmControleDeliveryDetalheVenda already exists (So Limpeza)",
+    "notas":  "Delivery: fim dos erros de ciclo de vida dos forms. Detalhe, Finalizar (F6) e Confirmar Saida (F7) usam Owner nil + PopupParent + Release. Elimina already exists, EInvalidPointer e travamento ao reabrir o Delivery.",
     "tamanho_mb":  57.9
 }
