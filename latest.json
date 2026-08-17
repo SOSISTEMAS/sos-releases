@@ -1,8 +1,8 @@
 {
-    "versao":  "2.70.0.0",
+    "versao":  "2.71.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "f0ea72a089add69c8cf8e425f005d12d9ed81d57b6de7ebda4a61c1e0d499b1c",
+    "sha256":  "b19a2026bc7dd0cbd7e2276b6830340f420863eaf37f6fa902652cb19e08422a",
     "obrigatorio":  true,
-    "notas":  "Delivery: fim dos erros de ciclo de vida dos forms. Detalhe, Finalizar (F6) e Confirmar Saida (F7) usam Owner nil + PopupParent + Release. Elimina already exists, EInvalidPointer e travamento ao reabrir o Delivery.",
+    "notas":  "Impressao ESC/POS: guilhotina, margens e cupom enxuto. Configuracao unica de impressao para PDV, Express e Delivery. Botao VENDAS DO DIA na aba Vendas. Abertura da Configuracao mais rapida.",
     "tamanho_mb":  57.9
 }
