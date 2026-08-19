@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.1",
+    "versao":  "2.71.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "7a4be806592a531f6f04819fbfa56204799d65cf1d29d1865f71db07ae055d6a",
+    "sha256":  "b7f4657f6a6b0a74ad21a4e01a2b1f0ff24a42a02f98b9818a9d3dcdb7591c33",
     "obrigatorio":  true,
-    "notas":  "Corrige guilhotina cortando duas vezes e desperdicio de papel no ESC/POS. Sangria e suprimento passam a sair no comprovante de fechamento de caixa. Botao Reabrir Caixa. Botao Vendas do Dia na aba Vendas.",
-    "tamanho_mb":  57.9
+    "notas":  "Fortes FS / Contador no menu (Lucro Real e Presumido). Entrada propria: CST 2 digitos no Real/Presumido (nao 000) e base ICMS zero nos CST 30/40/41/50/60.",
+    "tamanho_mb":  58
 }
