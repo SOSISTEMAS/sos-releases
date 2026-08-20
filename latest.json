@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.2",
+    "versao":  "2.71.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "b7f4657f6a6b0a74ad21a4e01a2b1f0ff24a42a02f98b9818a9d3dcdb7591c33",
+    "sha256":  "dc7b03613a5be7e4831379f40974b7e1891a9192c49a94c17cd0d9a4428c78a0",
     "obrigatorio":  true,
-    "notas":  "Fortes FS / Contador no menu (Lucro Real e Presumido). Entrada propria: CST 2 digitos no Real/Presumido (nao 000) e base ICMS zero nos CST 30/40/41/50/60.",
+    "notas":  "Cadastro de conta corrente volta a aceitar digitacao. Contas a receber nao quebra mais com limite zerado. Cadastro de contas grava o codigo. Previsao financeira abre sem erro.",
     "tamanho_mb":  58
 }
