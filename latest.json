@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.4",
+    "versao":  "2.71.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "73f0e19d93ef9a1dff4df9af67e450182153d96b5554db42df146af6cb98f1a7",
+    "sha256":  "ba401d61e0d66dad80206c0c5785a140ca48af6dcfee42f361d45a59ea2b3121",
     "obrigatorio":  true,
-    "notas":  "Resumo de vendas: datas por dia (sem pular/misturar mes) e abre sem travar. Relatorios produto/garcom com o mesmo padrao. Reimprimir/cancelar cupom: calendario legivel, periodo padrao ultimos 5 dias (evita timeout). Correcoes de tipo de campo nas datas do relatorio.",
+    "notas":  "Hotfix: reimprimir cupom nao quebra mais com erro de tipo na descricao do item (WideMemo).",
     "tamanho_mb":  58
 }
