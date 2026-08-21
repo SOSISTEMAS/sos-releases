@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.5",
+    "versao":  "2.71.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "ba401d61e0d66dad80206c0c5785a140ca48af6dcfee42f361d45a59ea2b3121",
+    "sha256":  "e5c76ab7fa14b299ccd4b132e38e41b5ad2c5e2d038661c268fbf0c84f394184",
     "obrigatorio":  true,
-    "notas":  "Hotfix: reimprimir cupom nao quebra mais com erro de tipo na descricao do item (WideMemo).",
+    "notas":  "Corrige telas que quebravam ao mostrar o nome do cliente. Quantidade no PDV volta a aceitar 3 casas decimais, para item vendido por peso.",
     "tamanho_mb":  58
 }
