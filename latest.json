@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.6",
+    "versao":  "2.71.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "e5c76ab7fa14b299ccd4b132e38e41b5ad2c5e2d038661c268fbf0c84f394184",
+    "sha256":  "8300a80aadf95e3a9116ba4d0d82121b39c38243b4509f8094fa97d95c7cc25e",
     "obrigatorio":  true,
-    "notas":  "Corrige telas que quebravam ao mostrar o nome do cliente. Quantidade no PDV volta a aceitar 3 casas decimais, para item vendido por peso.",
+    "notas":  "Delivery: a forma de pagamento e o troco informados na montagem do pedido agora saem no cupom que o motoboy leva, nos dois modelos de impressao. Cupom mais enxuto: desconto, troco e taxa de entrega zerados nao ocupam mais linha. Correcao interna que cria sozinha as colunas novas do banco na primeira abertura, sem precisar rodar script.",
     "tamanho_mb":  58
 }
