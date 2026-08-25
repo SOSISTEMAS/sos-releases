@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.7",
+    "versao":  "2.71.0.8",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8300a80aadf95e3a9116ba4d0d82121b39c38243b4509f8094fa97d95c7cc25e",
+    "sha256":  "d8e93781ae2725d2272faab48e6b076c48d167db2670efa0431caa6fce1c96f2",
     "obrigatorio":  true,
-    "notas":  "Delivery: a forma de pagamento e o troco informados na montagem do pedido agora saem no cupom que o motoboy leva, nos dois modelos de impressao. Cupom mais enxuto: desconto, troco e taxa de entrega zerados nao ocupam mais linha. Correcao interna que cria sozinha as colunas novas do banco na primeira abertura, sem precisar rodar script.",
+    "notas":  "NFe entrada boleto gera contas a pagar (tPag 15/prazo sem cobr). PDV/mesa/delivery enc_001 max id. Fonte com acentos da arvore de teste.",
     "tamanho_mb":  58
 }
