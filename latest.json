@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.8",
+    "versao":  "2.71.0.9",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "d8e93781ae2725d2272faab48e6b076c48d167db2670efa0431caa6fce1c96f2",
+    "sha256":  "c078801f8bb9933ec04ace0a61724d430d58a310d27d1efdec5e6c15cc6e0eca",
     "obrigatorio":  true,
-    "notas":  "NFe entrada boleto gera contas a pagar (tPag 15/prazo sem cobr). PDV/mesa/delivery enc_001 max id. Fonte com acentos da arvore de teste.",
-    "tamanho_mb":  58
+    "notas":  "Tela 1280: ribbon do menu VENDAS (ORDEM SERVICO oculto abaixo de 1350px), F6 PAGAMENTO do PDV Express e canto direito do Delivery. Pacote com imagens\\menu3d\\ e fix_schema_migracao_pdv.sql.",
+    "tamanho_mb":  58.6
 }
