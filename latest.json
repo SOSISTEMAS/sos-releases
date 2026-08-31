@@ -1,8 +1,8 @@
 {
-    "versao":  "2.71.0.9",
+    "versao":  "2.72.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "c078801f8bb9933ec04ace0a61724d430d58a310d27d1efdec5e6c15cc6e0eca",
+    "sha256":  "18cdb9f272529313f441ae8f3b6fcfc7ee2f1d307814973dc1ff430ac125656b",
     "obrigatorio":  true,
-    "notas":  "Tela 1280: ribbon do menu VENDAS (ORDEM SERVICO oculto abaixo de 1350px), F6 PAGAMENTO do PDV Express e canto direito do Delivery. Pacote com imagens\\menu3d\\ e fix_schema_migracao_pdv.sql.",
+    "notas":  "Correcoes fiscais: (1) Exportar Fortes FS agora gera o leiaute v200 aceito pelo contador. (2) Total da NFe de entrada propria passa a ser a soma dos itens arredondados a 2 casas, corrigindo a rejeicao SEFAZ 'Total do Produto difere do somatorio dos itens' em notas com quantidade fracionada.",
     "tamanho_mb":  58.6
 }
