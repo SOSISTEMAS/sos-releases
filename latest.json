@@ -1,8 +1,8 @@
 {
-    "versao":  "2.72.0.0",
+    "versao":  "2.73.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "18cdb9f272529313f441ae8f3b6fcfc7ee2f1d307814973dc1ff430ac125656b",
+    "sha256":  "e27f1b3340a1317cf22561caa3fc99241d3de4ee73965ccfb0718d392de79d56",
     "obrigatorio":  true,
-    "notas":  "Correcoes fiscais: (1) Exportar Fortes FS agora gera o leiaute v200 aceito pelo contador. (2) Total da NFe de entrada propria passa a ser a soma dos itens arredondados a 2 casas, corrigindo a rejeicao SEFAZ 'Total do Produto difere do somatorio dos itens' em notas com quantidade fracionada. Validado com transmissao real (SM Mercado) antes de liberar geral.",
-    "tamanho_mb":  58.6
+    "notas":  "Nota de separacao / pre-fechamento voltou a imprimir o total. No PDV e no PDV Express (Ctrl+H, Pre-fechamento / Separacao) o cupom saia com os itens e o subtotal corretos, mas com o TOTAL PEDIDO zerado. Causa: valor_total_venda e um campo calculado do cdsVenda, preenchido so pelo OnCalcFields do fluxo de fechamento (F6), e a separacao imprime sem passar por ele. Reportado por distribuidora de bebidas.",
+    "tamanho_mb":  58.5
 }
