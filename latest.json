@@ -1,8 +1,8 @@
 {
-    "versao":  "2.73.0.0",
+    "versao":  "2.74.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "e27f1b3340a1317cf22561caa3fc99241d3de4ee73965ccfb0718d392de79d56",
+    "sha256":  "d6d6dc5bbd27efb4257121cdb53fe682b5a56ce2916d336dd89c5fed61c48ae7",
     "obrigatorio":  true,
-    "notas":  "Nota de separacao / pre-fechamento voltou a imprimir o total. No PDV e no PDV Express (Ctrl+H, Pre-fechamento / Separacao) o cupom saia com os itens e o subtotal corretos, mas com o TOTAL PEDIDO zerado. Causa: valor_total_venda e um campo calculado do cdsVenda, preenchido so pelo OnCalcFields do fluxo de fechamento (F6), e a separacao imprime sem passar por ele. Reportado por distribuidora de bebidas.",
+    "notas":  "Cadastro de produto: quantidade de estoque digitada passa a entrar de verdade. (1) Em Duplicar Produto, o campo Qtde. Estoque era descartado em silencio - a gravacao antiga era por mat_016, comentada quando o schema mudou, e nada ocupou o lugar dela; o produto nascia zerado. (2) No cadastro normal, o campo Estoque mostra o saldo real (subselect de setor_estoque_material) mas nao fazia parte do INSERT/UPDATE, entao editar o numero nao mudava nada. Agora os dois lancam movimento de estoque pela mesma rotina que entrada de nota e venda usam. (3) Duplicar Produto tambem volta a sugerir o proximo codigo livre, como no Le Store, em vez de abrir o campo vazio.",
     "tamanho_mb":  58.5
 }
