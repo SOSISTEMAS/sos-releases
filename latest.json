@@ -1,8 +1,8 @@
 {
-    "versao":  "2.76.0.0",
+    "versao":  "2.77.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "9be3029dced4b7e565ef2664440776d45ea11f8c5e1dd330021f3869abe827ce",
+    "sha256":  "55cd7f1c796d3ed64ead45e512ae859f97c3c1eb263cbb2efdb5616e6c09c887",
     "obrigatorio":  true,
-    "notas":  "Fiscal+TEF no PDV; NCM em lote (SEFAZ zeros + IBPT); reimprimir cupom fiscal e nao fiscal; haver no fechamento",
+    "notas":  "Fechamento caixa PDF/email ForceQueue; Varejo/Atacado rollback no cancelar; LOGOMARCA no PDV; PDF fechamento estavel; formas pgto; login PDV/Express.",
     "tamanho_mb":  58.5
 }
