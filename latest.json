@@ -1,8 +1,8 @@
 {
-    "versao":  "2.79.0.0",
+    "versao":  "2.80.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "8ac320d481c0e1a493e77d03ac8c6295f1173af25ba120e0ff5fe9f4b30ae1c9",
+    "sha256":  "0a1373b5a418b6f19484a2ace1569a8a4490901ed89c9cb14f6d598213507f97",
     "obrigatorio":  true,
-    "notas":  "Fortes FS: NFC-e exportada no registro NVC (sem numero de equipamento ECF); correcoes do contador (NFC-e do Simples, INM com ST e IPI, PIS/COFINS CST 73); publicar-versao nao cai mais com mensagem do git.",
+    "notas":  "PDV: operador entra pelo codigo; produto de balanca pede o peso depois do codigo (PDV e Express, sem precisar de *); PDV normal: cursor fica depois do * ao digitar quantidade*codigo.",
     "tamanho_mb":  58.5
 }
