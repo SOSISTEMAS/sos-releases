@@ -1,8 +1,8 @@
 {
-    "versao":  "2.77.0.0",
+    "versao":  "2.78.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "55cd7f1c796d3ed64ead45e512ae859f97c3c1eb263cbb2efdb5616e6c09c887",
+    "sha256":  "d301208cac0498739dfa37df34af658379f8aa403aa6bab79d0c99a0154a23ae",
     "obrigatorio":  true,
-    "notas":  "Fechamento caixa PDF/email ForceQueue; Varejo/Atacado rollback no cancelar; LOGOMARCA no PDV; PDF fechamento estavel; formas pgto; login PDV/Express.",
+    "notas":  "Exportacao Fortes FS v203 com as correcoes do contador (NFC-e emitida no Simples, INM com ST e IPI, PIS/COFINS CST 73); TEF PayGo; PIX na tela de bloqueio; etiqueta Leribi 34x68.",
     "tamanho_mb":  58.5
 }
