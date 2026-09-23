@@ -1,8 +1,8 @@
 {
-    "versao":  "2.78.0.0",
+    "versao":  "2.79.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "d301208cac0498739dfa37df34af658379f8aa403aa6bab79d0c99a0154a23ae",
+    "sha256":  "8ac320d481c0e1a493e77d03ac8c6295f1173af25ba120e0ff5fe9f4b30ae1c9",
     "obrigatorio":  true,
-    "notas":  "Exportacao Fortes FS v203 com as correcoes do contador (NFC-e emitida no Simples, INM com ST e IPI, PIS/COFINS CST 73); TEF PayGo; PIX na tela de bloqueio; etiqueta Leribi 34x68.",
+    "notas":  "Fortes FS: NFC-e exportada no registro NVC (sem numero de equipamento ECF); correcoes do contador (NFC-e do Simples, INM com ST e IPI, PIS/COFINS CST 73); publicar-versao nao cai mais com mensagem do git.",
     "tamanho_mb":  58.5
 }
