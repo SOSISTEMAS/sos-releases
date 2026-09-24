@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.1",
+    "versao":  "2.81.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "a508946cbd674b72554d293ce15adad5fbeeec3b3a448d83c52af13fff130641",
+    "sha256":  "3610dd737bab675c7661cbabc0b3208f4773e691c94dd557cecbb5bb3e092659",
     "obrigatorio":  true,
-    "notas":  "Alterar Cupom no padrao Le Store: F4 reabre venda nao fiscal no PDV/Balcao para editar itens e pagamentos; F5 transforma em NFC-e. Continua o fix Fiscal e TEF da 2.81.",
+    "notas":  "Restaura Ctrl+E Alterar Quantidade no PDV e Express. Separacao com total (RecalcularTotais) ja na 2.81. Cumbuco.",
     "tamanho_mb":  58.5
 }
