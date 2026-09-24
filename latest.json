@@ -1,8 +1,8 @@
 {
-    "versao":  "2.80.0.0",
+    "versao":  "2.81.0.0",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "0a1373b5a418b6f19484a2ace1569a8a4490901ed89c9cb14f6d598213507f97",
+    "sha256":  "81ce7e5792dacf9c608802b5d227b08e2d7c24651f23f3602a2f75c4a0ef9779",
     "obrigatorio":  true,
-    "notas":  "PDV: operador entra pelo codigo; produto de balanca pede o peso depois do codigo (PDV e Express, sem precisar de *); PDV normal: cursor fica depois do * ao digitar quantidade*codigo.",
+    "notas":  "PDV Express Mesa Comanda Delivery voltam a abrir o Menu fiscal. Quem desligou Fiscal e TEF de proposito nas 2.76-2.80 precisa desmarcar a caixa nova Fiscal e TEF na aba PDV uma vez.",
     "tamanho_mb":  58.5
 }
