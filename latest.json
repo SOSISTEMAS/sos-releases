@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.0",
+    "versao":  "2.81.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "81ce7e5792dacf9c608802b5d227b08e2d7c24651f23f3602a2f75c4a0ef9779",
+    "sha256":  "a508946cbd674b72554d293ce15adad5fbeeec3b3a448d83c52af13fff130641",
     "obrigatorio":  true,
-    "notas":  "PDV Express Mesa Comanda Delivery voltam a abrir o Menu fiscal. Quem desligou Fiscal e TEF de proposito nas 2.76-2.80 precisa desmarcar a caixa nova Fiscal e TEF na aba PDV uma vez.",
+    "notas":  "Alterar Cupom no padrao Le Store: F4 reabre venda nao fiscal no PDV/Balcao para editar itens e pagamentos; F5 transforma em NFC-e. Continua o fix Fiscal e TEF da 2.81.",
     "tamanho_mb":  58.5
 }
