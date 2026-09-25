@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.2",
+    "versao":  "2.81.0.3",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "3610dd737bab675c7661cbabc0b3208f4773e691c94dd557cecbb5bb3e092659",
+    "sha256":  "6d8a844e75165e6b80e7a431fe8ac8087f248d95e636e36f9e9402d974d07200",
     "obrigatorio":  true,
-    "notas":  "Restaura Ctrl+E Alterar Quantidade no PDV e Express. Separacao com total (RecalcularTotais) ja na 2.81. Cumbuco.",
+    "notas":  "Vendedor por codigo: digitar o codigo (ou nome) + Enter na janela de vendedor; Enter vazio nao escolhe ninguem. Alterar Cupom mostra so venda nao fiscal e cria indices (lista de 46 s para menos de 1 s). Login e confirmacao pelo nome ignoram espaco no fim do cadastro.",
     "tamanho_mb":  58.5
 }
