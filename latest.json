@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.3",
+    "versao":  "2.81.0.4",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "6d8a844e75165e6b80e7a431fe8ac8087f248d95e636e36f9e9402d974d07200",
+    "sha256":  "05dc50ab6a5270c20415b92ff002189d4f9e3ea0d07c4e1ee8c274f1b084fd1a",
     "obrigatorio":  true,
-    "notas":  "Vendedor por codigo: digitar o codigo (ou nome) + Enter na janela de vendedor; Enter vazio nao escolhe ninguem. Alterar Cupom mostra so venda nao fiscal e cria indices (lista de 46 s para menos de 1 s). Login e confirmacao pelo nome ignoram espaco no fim do cadastro.",
+    "notas":  "fix(fortes): NFC-e usa qtd*unit como bruto do PNC (ite_005 e liquido, nao bruto)",
     "tamanho_mb":  58.5
 }
