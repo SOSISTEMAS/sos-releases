@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.4",
+    "versao":  "2.81.0.5",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "05dc50ab6a5270c20415b92ff002189d4f9e3ea0d07c4e1ee8c274f1b084fd1a",
+    "sha256":  "deaf5e3769ad0c647c9b792ab62487742ab2f3ff91b38e160ba37aec46bbb3df",
     "obrigatorio":  true,
-    "notas":  "fix(fortes): NFC-e usa qtd*unit como bruto do PNC (ite_005 e liquido, nao bruto)",
+    "notas":  "PDV: troco do fechamento conta so formas de pagamento escolhidas; valor esquecido na Forma 2 ou 3 sem forma nao entra mais no troco",
     "tamanho_mb":  58.5
 }
