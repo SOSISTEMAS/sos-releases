@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.5",
+    "versao":  "2.81.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "deaf5e3769ad0c647c9b792ab62487742ab2f3ff91b38e160ba37aec46bbb3df",
+    "sha256":  "276f33f2db128ed86ac113756198eda2f9f54934fcae52fa97b6bc538d6a78a2",
     "obrigatorio":  true,
-    "notas":  "PDV: troco do fechamento conta so formas de pagamento escolhidas; valor esquecido na Forma 2 ou 3 sem forma nao entra mais no troco",
+    "notas":  "Fortes FS: participante sem UF, IE sem zero a esquerda e devolucao a fornecedor corrigidos; notas de entrada saem com os valores do XML da NF-e e pela data de entrada",
     "tamanho_mb":  58.5
 }
