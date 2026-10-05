@@ -1,8 +1,8 @@
 {
-    "versao":  "2.81.0.6",
+    "versao":  "2.81.0.7",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "276f33f2db128ed86ac113756198eda2f9f54934fcae52fa97b6bc538d6a78a2",
+    "sha256":  "7b58af40bb53f2da080b72b281304b36b0e1368a2c41d12d97ca45b146099478",
     "obrigatorio":  true,
-    "notas":  "Fortes FS: participante sem UF, IE sem zero a esquerda e devolucao a fornecedor corrigidos; notas de entrada saem com os valores do XML da NF-e e pela data de entrada",
+    "notas":  "Licenca e atualizacao automatica passam a usar sosistemas.com (endereco antigo saiu do ar). Backup automatico volta a funcionar sem configurar o pg_dump. Ajustes na tela de homologacao TEF.",
     "tamanho_mb":  58.5
 }
