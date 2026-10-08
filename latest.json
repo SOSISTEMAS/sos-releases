@@ -1,8 +1,8 @@
 {
-    "versao":  "2.82.0.0",
+    "versao":  "2.82.0.1",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "5f4afd85d951963be71cd97bbae9f7ad9ec65b7bc8e31a90628907c6e91eb307",
+    "sha256":  "92ef27702a25b17bbcff93e4265fdfcda007f12b9d9f9485ed73851786b28c1a",
     "obrigatorio":  true,
-    "notas":  "Cupom nao fiscal agora em arquivo .fr3 (Relatorios\\Cupom) no padrao Le Cheff: Consolas, 72mm, item em duas linhas; opcoes Bobina 58mm e Fonte grande em Configuracao \u003e Impressora. Delivery: corrigido travamento ao fechar o pedido (Detalhe) e erro ao voltar da lista de clientes. Finalizar (F6) ja vem com o entregador selecionado e Enter confirma.",
+    "notas":  "Loja online: corrigido pedido entrando duas vezes na venda em espera quando mais de um computador puxa os pedidos (SM). Import agora confere se o pedido ja virou venda antes de criar outra.",
     "tamanho_mb":  58.6
 }
