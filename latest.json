@@ -1,8 +1,8 @@
 {
-    "versao":  "2.82.0.1",
+    "versao":  "2.82.0.2",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "92ef27702a25b17bbcff93e4265fdfcda007f12b9d9f9485ed73851786b28c1a",
+    "sha256":  "af296d92fea4313ef92aae43754020b055eab0e65134e428ce2c4afca94ecbe0",
     "obrigatorio":  true,
-    "notas":  "Loja online: corrigido pedido entrando duas vezes na venda em espera quando mais de um computador puxa os pedidos (SM). Import agora confere se o pedido ja virou venda antes de criar outra.",
+    "notas":  "Configuracoes \u003e Temas: o modo do menu (Automatico/Normal/Compacto) e as caixas \u0027Utiliza Orcamento\u0027 / \u0027Utiliza Ordem de Servico\u0027 agora ficam salvos ao Confirmar.",
     "tamanho_mb":  58.6
 }
