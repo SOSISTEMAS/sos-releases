@@ -6,8 +6,12 @@
 $ErrorActionPreference = 'Continue'
 function Out([string]$m) { [Console]::Out.WriteLine($m) }
 
-$iniPath = 'C:/SOS/Win64/CONF/DATABASE.INI'
-if (-not (Test-Path $iniPath)) { throw "nao achei $iniPath" }
+$iniPath = @('C:/SOS/Win64/CONF/DATABASE.INI', 'C:/SOS/CONF/DATABASE.INI') | Where-Object { Test-Path $_ } | Select-Object -First 1
+if (-not $iniPath) {
+  $iniPath = Get-ChildItem 'C:/SOS*' -Recurse -Depth 3 -Filter 'DATABASE.INI' -EA SilentlyContinue | Select-Object -First 1 -ExpandProperty FullName
+}
+if (-not $iniPath) { throw 'nao achei o DATABASE.INI do SOS (procurei em C:/SOS*)' }
+Out "INI: $iniPath"
 $ini = @{}
 foreach ($l in Get-Content $iniPath) {
   if ($l -match '^\s*([A-Za-z]+)\s*=\s*(.*)$') { $ini[$matches[1].ToUpper()] = $matches[2].Trim() }
@@ -41,7 +45,7 @@ Out ("Produtos por empresa (emp|qtd): " + (($n | Where-Object { $_ }) -join ' ; 
 $e = & $psql -X -A -t -h $srv -p $port -U $usr -d $db -c 'SELECT emp_004, emp_002, emp_003 FROM empresas WHERE emp_001=1'
 Out ("EMPRESA=" + (($e | Where-Object { $_ }) -join ' '))
 
-$dir = 'C:/SOS/Win64/BACKUP'
+$dir = 'C:/PRODUTOS_LOJA01'
 New-Item -ItemType Directory -Force -Path $dir | Out-Null
 $arq = "$dir/produtos_loja01_$(Get-Date -Format 'yyyyMMdd_HHmmss').dump"
 $pa = @('-h', $srv, '-p', $port, '-U', $usr, '-d', $db, '-Fc', '-Z', '9', '--no-owner', '--no-privileges', '-f', $arq)
@@ -57,3 +61,4 @@ Out ("SHA256=" + (Get-FileHash $arq -Algorithm SHA256).Hash)
 # copia na area de trabalho publica pra facilitar levar pela AnyDesk
 Copy-Item $arq 'C:/Users/Public/Desktop/' -Force -EA SilentlyContinue
 if (Test-Path "C:/Users/Public/Desktop/$($f.Name)") { Out "COPIA=C:/Users/Public/Desktop/$($f.Name)" }
+if ([Environment]::UserInteractive -and $env:USERNAME -ne 'SYSTEM') { explorer.exe "/select,$($f.FullName -replace '/', '\')" }

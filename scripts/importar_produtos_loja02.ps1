@@ -6,7 +6,7 @@ $ErrorActionPreference = 'Continue'
 function Out([string]$m) { [Console]::Out.WriteLine($m) }
 
 if (-not $Dump) {
-  $c = Get-ChildItem 'C:/SOS/Win64/BACKUP', 'C:/Users/*/Desktop', 'C:/Users/*/Downloads' -Filter 'produtos_loja01*.dump' -EA SilentlyContinue |
+  $c = Get-ChildItem 'C:/PRODUTOS_LOJA01', 'C:/SOS/Win64/BACKUP', 'C:/Users/*/Desktop', 'C:/Users/*/Downloads' -Filter 'produtos_loja01*.dump' -EA SilentlyContinue |
     Sort-Object LastWriteTime -Descending | Select-Object -First 1
   if ($c) { $Dump = $c.FullName }
 }
