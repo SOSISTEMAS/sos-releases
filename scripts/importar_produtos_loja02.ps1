@@ -93,7 +93,8 @@ if (-not (Test-Path $mig)) {
   Expand-Archive -Path $zip -DestinationPath $kit -Force
 }
 if (-not (Test-Path $mig)) { throw "nao achei $mig" }
-Q $db 'CREATE EXTENSION IF NOT EXISTS dblink' | Out-Null
+# o banco do SOS pode ter as funcoes dblink criadas fora de extensao; so cria se faltar
+if ((Q $db "SELECT count(*) FROM pg_proc WHERE proname='dblink'") -eq '0') { Q $db 'CREATE EXTENSION IF NOT EXISTS dblink' | Out-Null }
 # seeds do banco zerado (categoria DIVERSOS id 1) fariam o ON CONFLICT descartar o id 1 da Loja 01
 foreach ($t in 'materiais_codigos','materiais_kit','materiais_composicao','materiais_variacao_cor',
   'materiais_variacao','setor_estoque_material','materiais','subcategoria','categoria','unidades',
@@ -108,6 +109,19 @@ $out = & powershell -NoProfile -ExecutionPolicy Bypass -File $mig -OrigemDb $tmp
 $rc = $LASTEXITCODE
 $out | Select-Object -Last 15 | ForEach-Object { Out "  $_" }
 if ($rc -ne 0) { throw "migrar_somente_produtos falhou (exit $rc) - banco temporario $tmp mantido; backup em $bk" }
+# o migrador copia os ids da Loja 01 mas so acerta a sequence de materiais; sem isto o 1o codigo
+# de barras/categoria novo cadastrado na Loja 02 da chave duplicada
+$sf2 = "$env:TEMP/acertar_sequences.sql"
+Set-Content -Path $sf2 -Encoding ASCII -Value @'
+DO $$ DECLARE r record; s text; BEGIN
+FOR r IN SELECT table_name t, column_name c, column_default d FROM information_schema.columns
+  WHERE table_schema='public' AND column_default LIKE 'nextval(%' AND table_name IN ('unidades','categoria','subcategoria','setor_estoque','desc_tamanho_material','fornecedor','materiais','materiais_codigos','materiais_kit','materiais_composicao','materiais_variacao','materiais_variacao_cor','setor_estoque_material') LOOP
+  s := substring(r.d from 'nextval\(''([^'']+)''');
+  EXECUTE format('SELECT setval(%L, COALESCE((SELECT max(%I) FROM %I), 0) + 1, false)', s, r.c, r.t);
+END LOOP; END $$;
+'@
+$e = & $psql -X -q -h $srv -p $port -U $usr -d $db -v ON_ERROR_STOP=1 -f $sf2 2>&1
+if ($LASTEXITCODE -ne 0) { Out "  aviso: acerto das sequences falhou: $e" } else { Out 'Sequences acertadas' }
 
 $depois = Q $db 'SELECT count(*) FROM materiais WHERE emp_001=1'
 Out "CONFERENCIA: origem=$nTmp destino=$depois (antes=$antes)"
