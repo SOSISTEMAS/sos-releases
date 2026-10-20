@@ -6,11 +6,26 @@ $ErrorActionPreference = 'Continue'
 function Out([string]$m) { [Console]::Out.WriteLine($m) }
 
 if (-not $Dump) {
-  $c = Get-ChildItem 'C:/PRODUTOS_LOJA01', 'C:/SOS/Win64/BACKUP', 'C:/Users/*/Desktop', 'C:/Users/*/Downloads' -Filter 'produtos_loja01*.dump' -EA SilentlyContinue |
+  # 1o: pasta C:/SOS/Win64/BKP (backup completo do SOS da Loja 01 ou o dump de produtos)
+  $c = Get-ChildItem 'C:/SOS/Win64/BKP/*' -Include '*.zip', '*.backup', '*.dump' -EA SilentlyContinue |
     Sort-Object LastWriteTime -Descending | Select-Object -First 1
+  if (-not $c) {
+    $c = Get-ChildItem 'C:/PRODUTOS_LOJA01', 'C:/SOS/Win64/BACKUP', 'C:/Users/*/Desktop', 'C:/Users/*/Downloads' -Filter 'produtos_loja01*.dump' -EA SilentlyContinue |
+      Sort-Object LastWriteTime -Descending | Select-Object -First 1
+  }
   if ($c) { $Dump = $c.FullName }
 }
-if (-not $Dump -or -not (Test-Path $Dump)) { throw "dump nao encontrado ($Dump) - copie o produtos_loja01_*.dump para C:/SOS/Win64/BACKUP" }
+if (-not $Dump -or -not (Test-Path $Dump)) { throw "backup da Loja 01 nao encontrado ($Dump) - coloque em C:/SOS/Win64/BKP" }
+if ($Dump -like '*.zip') {
+  # backup automatico do SOS: BKP_dd_mm_aaaa_hh_mm.zip com o .backup (formato tar) dentro
+  $ux = "$env:TEMP/bkp_loja01"
+  Remove-Item $ux -Recurse -Force -EA SilentlyContinue
+  Expand-Archive -Path $Dump -DestinationPath $ux -Force
+  $b = Get-ChildItem $ux -Recurse -Include '*.backup', '*.dump' | Sort-Object Length -Descending | Select-Object -First 1
+  if (-not $b) { throw "zip sem .backup dentro: $Dump" }
+  Out "Zip: $Dump -> $($b.Name)"
+  $Dump = $b.FullName
+}
 $h = (Get-FileHash $Dump -Algorithm SHA256).Hash
 Out "Dump: $Dump ($((Get-Item $Dump).Length) bytes) SHA256=$h"
 if ($Sha -and $h -ne $Sha.ToUpper()) { throw "SHA256 nao confere com a Loja 01 ($Sha)" }
