@@ -60,9 +60,10 @@ $antes = Q $db 'SELECT count(*) FROM materiais'
 Out "Produtos destino antes: $antes"
 if ([int]$antes -gt 50) { throw "destino ja tem $antes produtos - script e so pra loja recem-instalada" }
 
+New-Item -ItemType Directory -Force -Path 'C:/SOS/Win64/BACKUP' | Out-Null
 $bk = "C:/SOS/Win64/BACKUP/antes_produtos_${db}_$(Get-Date -Format 'yyyyMMdd_HHmmss').backup"
-& (Join-Path $pgDir 'pg_dump.exe') -h $srv -p $port -U $usr -d $db -Fc -f $bk 2>&1 | Out-Null
-if ($LASTEXITCODE -ne 0 -or -not (Test-Path $bk)) { throw 'backup do destino falhou - nada foi alterado' }
+$e = & (Join-Path $pgDir 'pg_dump.exe') -h $srv -p $port -U $usr -d $db -Fc -f $bk 2>&1
+if ($LASTEXITCODE -ne 0 -or -not (Test-Path $bk)) { throw "backup do destino falhou - nada foi alterado: $e" }
 Out "Backup destino: $bk ($((Get-Item $bk).Length) bytes)"
 
 $tmp = 'loja01_produtos_tmp'
