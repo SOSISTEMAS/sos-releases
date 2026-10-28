@@ -1,8 +1,8 @@
 {
-    "versao":  "2.82.0.2",
+    "versao":  "2.82.0.6",
     "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "af296d92fea4313ef92aae43754020b055eab0e65134e428ce2c4afca94ecbe0",
+    "sha256":  "642c1a9b56672ac080960f257807cca99080db9aa0a38de85598f4eae9608fe2",
     "obrigatorio":  true,
-    "notas":  "Configuracoes \u003e Temas: o modo do menu (Automatico/Normal/Compacto) e as caixas \u0027Utiliza Orcamento\u0027 / \u0027Utiliza Ordem de Servico\u0027 agora ficam salvos ao Confirmar.",
+    "notas":  "PDV Express: venda recuperada da espera nao volta mais sozinha. Ao abrir o PDV com uma venda aberta de outro dia, o sistema pergunta se quer Retomar, Colocar em espera ou Cancelar a venda. Ao sair do PDV com uma venda puxada da espera sem finalizar, ela volta para a espera.",
     "tamanho_mb":  58.6
 }
