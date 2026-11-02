@@ -1,8 +1,8 @@
 {
-    "versao":  "2.82.0.6",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
-    "sha256":  "642c1a9b56672ac080960f257807cca99080db9aa0a38de85598f4eae9608fe2",
+    "versao":  "2.82.0.8",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.82.0.8/SOS-v2.82.0.8-completo-Win64.zip",
+    "sha256":  "7c33581d0ffa0e40bb5a186b275e3d7d6b8c9eebb7c3bb2c7a01e8600cba62ad",
     "obrigatorio":  true,
-    "notas":  "PDV Express: venda recuperada da espera nao volta mais sozinha. Ao abrir o PDV com uma venda aberta de outro dia, o sistema pergunta se quer Retomar, Colocar em espera ou Cancelar a venda. Ao sair do PDV com uma venda puxada da espera sem finalizar, ela volta para a espera.",
+    "notas":  "PDV: Ctrl+R abre o cadastro do produto direto do caixa para corrigir o preco; os itens da venda sem desconto ja ficam com o preco novo. Consulta de produtos ja abre com a busca por termo parcial marcada. Finalizar venda: Imprimir cupom ja vem marcado em toda venda; desmarque quando o cliente nao quiser o cupom. Cupom: endereco e telefone da empresa saem logo depois de salvar a Configuracao, sem reiniciar.",
     "tamanho_mb":  58.6
 }
