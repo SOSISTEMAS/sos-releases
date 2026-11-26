@@ -1,8 +1,8 @@
 {
-    "versao":  "2.82.0.8",
-    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/v2.82.0.8/SOS-v2.82.0.8-completo-Win64.zip",
-    "sha256":  "7c33581d0ffa0e40bb5a186b275e3d7d6b8c9eebb7c3bb2c7a01e8600cba62ad",
+    "versao":  "2.82.0.9",
+    "url_pacote":  "https://github.com/SOSISTEMAS/sos-releases/releases/download/latest-exe/SOS-Win64.zip",
+    "sha256":  "14056ce3daf177721c01418a13eec4ed5a73c617815bd6d889df7d1b09ebb0d4",
     "obrigatorio":  true,
-    "notas":  "PDV: Ctrl+R abre o cadastro do produto direto do caixa para corrigir o preco; os itens da venda sem desconto ja ficam com o preco novo. Consulta de produtos ja abre com a busca por termo parcial marcada. Finalizar venda: Imprimir cupom ja vem marcado em toda venda; desmarque quando o cliente nao quiser o cupom. Cupom: endereco e telefone da empresa saem logo depois de salvar a Configuracao, sem reiniciar.",
+    "notas":  "Fortes FS: valores do arquivo batem com a SEFAZ e o SIGA do contador - entradas pelo XML do manifesto (com FCP-ST) e itens da NFC-e pelo XML autorizado; geracao do arquivo bem mais rapida.",
     "tamanho_mb":  58.6
 }
